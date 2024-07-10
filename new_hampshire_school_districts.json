@@ -1,0 +1,677 @@
+{
+  "links": [
+    {
+      "text": "Hollis-Brookline Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hollis-Brookline_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Manchester School District, New Hampshire",
+      "href": "https://ballotpedia.org/Manchester_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Concord School District, New Hampshire",
+      "href": "https://ballotpedia.org/Concord_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Dover School District, New Hampshire",
+      "href": "https://ballotpedia.org/Dover_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Gilford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Gilford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hudson School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hudson_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Nashua School District, New Hampshire",
+      "href": "https://ballotpedia.org/Nashua_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Merrimack School District, New Hampshire",
+      "href": "https://ballotpedia.org/Merrimack_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Rochester School District, New Hampshire",
+      "href": "https://ballotpedia.org/Rochester_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Londonderry School District, New Hampshire",
+      "href": "https://ballotpedia.org/Londonderry_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Salem School District, New Hampshire",
+      "href": "https://ballotpedia.org/Salem_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Timberlane Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Timberlane_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Allenstown School District, New Hampshire",
+      "href": "https://ballotpedia.org/Allenstown_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Alton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Alton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Amherst School District, New Hampshire",
+      "href": "https://ballotpedia.org/Amherst_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Andover School District, New Hampshire",
+      "href": "https://ballotpedia.org/Andover_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Ashland School District, New Hampshire",
+      "href": "https://ballotpedia.org/Ashland_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Barnstead School District, New Hampshire",
+      "href": "https://ballotpedia.org/Barnstead_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Barrington School District, New Hampshire",
+      "href": "https://ballotpedia.org/Barrington_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Bartlett School District, New Hampshire",
+      "href": "https://ballotpedia.org/Bartlett_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Bath School District, New Hampshire",
+      "href": "https://ballotpedia.org/Bath_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Bedford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Bedford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Berlin School District, New Hampshire",
+      "href": "https://ballotpedia.org/Berlin_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Bethlehem School District, New Hampshire",
+      "href": "https://ballotpedia.org/Bethlehem_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Bow School District, New Hampshire",
+      "href": "https://ballotpedia.org/Bow_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Brentwood School District, New Hampshire",
+      "href": "https://ballotpedia.org/Brentwood_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Brookline School District, New Hampshire",
+      "href": "https://ballotpedia.org/Brookline_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Campton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Campton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Candia School District, New Hampshire",
+      "href": "https://ballotpedia.org/Candia_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Chester School District, New Hampshire",
+      "href": "https://ballotpedia.org/Chester_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Chesterfield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Chesterfield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Chichester School District, New Hampshire",
+      "href": "https://ballotpedia.org/Chichester_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Claremont School District, New Hampshire",
+      "href": "https://ballotpedia.org/Claremont_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Colebrook School District, New Hampshire",
+      "href": "https://ballotpedia.org/Colebrook_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Contoocook Valley School District, New Hampshire",
+      "href": "https://ballotpedia.org/Contoocook_Valley_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Conway School District, New Hampshire",
+      "href": "https://ballotpedia.org/Conway_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Cornish School District, New Hampshire",
+      "href": "https://ballotpedia.org/Cornish_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Croydon School District, New Hampshire",
+      "href": "https://ballotpedia.org/Croydon_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Deerfield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Deerfield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Derry School District, New Hampshire",
+      "href": "https://ballotpedia.org/Derry_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Dresden School District, New Hampshire",
+      "href": "https://ballotpedia.org/Dresden_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Dunbarton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Dunbarton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "East Kingston School District, New Hampshire",
+      "href": "https://ballotpedia.org/East_Kingston_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Epping School District, New Hampshire",
+      "href": "https://ballotpedia.org/Epping_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Epsom School District, New Hampshire",
+      "href": "https://ballotpedia.org/Epsom_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Errol School District, New Hampshire",
+      "href": "https://ballotpedia.org/Errol_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Exeter Region Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Exeter_Region_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Exeter School District, New Hampshire",
+      "href": "https://ballotpedia.org/Exeter_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Fall Mountain Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Fall_Mountain_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Farmington School District, New Hampshire",
+      "href": "https://ballotpedia.org/Farmington_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Franklin School District, New Hampshire",
+      "href": "https://ballotpedia.org/Franklin_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Freedom School District, New Hampshire",
+      "href": "https://ballotpedia.org/Freedom_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Fremont School District, New Hampshire",
+      "href": "https://ballotpedia.org/Fremont_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Gilmanton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Gilmanton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Goffstown School District, New Hampshire",
+      "href": "https://ballotpedia.org/Goffstown_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Gorham Randolph Shelburne Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Gorham_Randolph_Shelburne_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Goshen-Lempster Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Goshen-Lempster_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Governor Wentworth Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Governor_Wentworth_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Grantham School District, New Hampshire",
+      "href": "https://ballotpedia.org/Grantham_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Greenland School District, New Hampshire",
+      "href": "https://ballotpedia.org/Greenland_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hampstead School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hampstead_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hampton Falls School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hampton_Falls_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hanover School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hanover_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Harrisville School District, New Hampshire",
+      "href": "https://ballotpedia.org/Harrisville_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Haverhill Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Haverhill_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Henniker School District, New Hampshire",
+      "href": "https://ballotpedia.org/Henniker_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hill School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hill_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hillsboro-Deering Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hillsboro-Deering_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hinsdale School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hinsdale_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hollis School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hollis_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hooksett School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hooksett_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hopkinton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hopkinton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Inter-Lakes School District, New Hampshire",
+      "href": "https://ballotpedia.org/Inter-Lakes_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Jackson School District, New Hampshire",
+      "href": "https://ballotpedia.org/Jackson_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Jaffrey-Rindge Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Jaffrey-Rindge_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "John Stark Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/John_Stark_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Kearsarge Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Kearsarge_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Keene School District, New Hampshire",
+      "href": "https://ballotpedia.org/Keene_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Kensington School District, New Hampshire",
+      "href": "https://ballotpedia.org/Kensington_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lafayette Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lafayette_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Landaff School District, New Hampshire",
+      "href": "https://ballotpedia.org/Landaff_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Laurent Clerc School District, New Hampshire",
+      "href": "https://ballotpedia.org/Laurent_Clerc_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lebanon School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lebanon_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lincoln-Woodstock School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lincoln-Woodstock_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lisbon Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lisbon_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Litchfield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Litchfield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Littleton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Littleton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lyme School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lyme_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lyndeborough School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lyndeborough_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Madison School District, New Hampshire",
+      "href": "https://ballotpedia.org/Madison_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Marlborough School District, New Hampshire",
+      "href": "https://ballotpedia.org/Marlborough_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Marlow School District, New Hampshire",
+      "href": "https://ballotpedia.org/Marlow_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Mascenic Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Mascenic_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Mascoma Valley Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Mascoma_Valley_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Merrimack Valley School District, New Hampshire",
+      "href": "https://ballotpedia.org/Merrimack_Valley_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Milan School District, New Hampshire",
+      "href": "https://ballotpedia.org/Milan_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Milford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Milford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Milton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Milton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Monadnock Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Monadnock_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Monroe School District, New Hampshire",
+      "href": "https://ballotpedia.org/Monroe_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Mont Vernon School District, New Hampshire",
+      "href": "https://ballotpedia.org/Mont_Vernon_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Moultonborough School District, New Hampshire",
+      "href": "https://ballotpedia.org/Moultonborough_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Nelson School District, New Hampshire",
+      "href": "https://ballotpedia.org/Nelson_School_District,_New_Hampshire"
+    },
+    {
+      "text": "New Boston School District, New Hampshire",
+      "href": "https://ballotpedia.org/New_Boston_School_District,_New_Hampshire"
+    },
+    {
+      "text": "New Castle School District, New Hampshire",
+      "href": "https://ballotpedia.org/New_Castle_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Newfields School District, New Hampshire",
+      "href": "https://ballotpedia.org/Newfields_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Newfound Area School District, New Hampshire",
+      "href": "https://ballotpedia.org/Newfound_Area_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Newington School District, New Hampshire",
+      "href": "https://ballotpedia.org/Newington_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Newmarket School District, New Hampshire",
+      "href": "https://ballotpedia.org/Newmarket_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Newport School District, New Hampshire",
+      "href": "https://ballotpedia.org/Newport_School_District,_New_Hampshire"
+    },
+    {
+      "text": "North Hampton School District, New Hampshire",
+      "href": "https://ballotpedia.org/North_Hampton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Northumberland School District, New Hampshire",
+      "href": "https://ballotpedia.org/Northumberland_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Nottingham School District, New Hampshire",
+      "href": "https://ballotpedia.org/Nottingham_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Oyster River Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Oyster_River_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Pelham School District, New Hampshire",
+      "href": "https://ballotpedia.org/Pelham_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Pembroke School District, New Hampshire",
+      "href": "https://ballotpedia.org/Pembroke_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Pemi-Baker Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Pemi-Baker_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Piermont School District, New Hampshire",
+      "href": "https://ballotpedia.org/Piermont_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Pittsburg School District, New Hampshire",
+      "href": "https://ballotpedia.org/Pittsburg_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Pittsfield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Pittsfield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Plainfield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Plainfield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Plymouth School District, New Hampshire",
+      "href": "https://ballotpedia.org/Plymouth_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Portsmouth School District, New Hampshire",
+      "href": "https://ballotpedia.org/Portsmouth_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Profile School District, New Hampshire",
+      "href": "https://ballotpedia.org/Profile_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Prospect Mountain High School District, New Hampshire",
+      "href": "https://ballotpedia.org/Prospect_Mountain_High_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Raymond School District, New Hampshire",
+      "href": "https://ballotpedia.org/Raymond_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Rivendell Interstate School District, New Hampshire",
+      "href": "https://ballotpedia.org/Rivendell_Interstate_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Rollinsford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Rollinsford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Rumney School District, New Hampshire",
+      "href": "https://ballotpedia.org/Rumney_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Rye School District, New Hampshire",
+      "href": "https://ballotpedia.org/Rye_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Sanborn Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Sanborn_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Seabrook School District, New Hampshire",
+      "href": "https://ballotpedia.org/Seabrook_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Shaker Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Shaker_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Somersworth School District, New Hampshire",
+      "href": "https://ballotpedia.org/Somersworth_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Souhegan Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Souhegan_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "South Hampton School District, New Hampshire",
+      "href": "https://ballotpedia.org/South_Hampton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Stark School District, New Hampshire",
+      "href": "https://ballotpedia.org/Stark_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Stewartstown School District, New Hampshire",
+      "href": "https://ballotpedia.org/Stewartstown_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Stoddard School District, New Hampshire",
+      "href": "https://ballotpedia.org/Stoddard_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Strafford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Strafford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Stratford School District, New Hampshire",
+      "href": "https://ballotpedia.org/Stratford_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Stratham School District, New Hampshire",
+      "href": "https://ballotpedia.org/Stratham_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Sunapee School District, New Hampshire",
+      "href": "https://ballotpedia.org/Sunapee_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Tamworth School District, New Hampshire",
+      "href": "https://ballotpedia.org/Tamworth_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Thornton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Thornton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Unity School District, New Hampshire",
+      "href": "https://ballotpedia.org/Unity_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Wakefield School District, New Hampshire",
+      "href": "https://ballotpedia.org/Wakefield_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Warren School District, New Hampshire",
+      "href": "https://ballotpedia.org/Warren_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Washington School District, New Hampshire",
+      "href": "https://ballotpedia.org/Washington_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Waterville Valley School District, New Hampshire",
+      "href": "https://ballotpedia.org/Waterville_Valley_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Weare School District, New Hampshire",
+      "href": "https://ballotpedia.org/Weare_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Wentworth School District, New Hampshire",
+      "href": "https://ballotpedia.org/Wentworth_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Westmoreland School District, New Hampshire",
+      "href": "https://ballotpedia.org/Westmoreland_School_District,_New_Hampshire"
+    },
+    {
+      "text": "White Mountain Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/White_Mountain_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Wilton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Wilton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Wilton-Lyndeborough School District, New Hampshire",
+      "href": "https://ballotpedia.org/Wilton-Lyndeborough_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Winchester School District, New Hampshire",
+      "href": "https://ballotpedia.org/Winchester_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Windham School District, New Hampshire",
+      "href": "https://ballotpedia.org/Windham_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Winnacunnet Cooperative School District, New Hampshire",
+      "href": "https://ballotpedia.org/Winnacunnet_Cooperative_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Winnisquam Regional School District, New Hampshire",
+      "href": "https://ballotpedia.org/Winnisquam_Regional_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Coos County School District, New Hampshire",
+      "href": "https://ballotpedia.org/Coos_County_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Laconia School District, New Hampshire",
+      "href": "https://ballotpedia.org/Laconia_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Lempster School District, New Hampshire",
+      "href": "https://ballotpedia.org/Lempster_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Auburn School District, New Hampshire",
+      "href": "https://ballotpedia.org/Auburn_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Mason School District, New Hampshire",
+      "href": "https://ballotpedia.org/Mason_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Middleton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Middleton_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Northwood School District, New Hampshire",
+      "href": "https://ballotpedia.org/Northwood_School_District,_New_Hampshire"
+    },
+    {
+      "text": "Hampton School District, New Hampshire",
+      "href": "https://ballotpedia.org/Hampton_School_District,_New_Hampshire"
+    }
+  ],
+  "count": 168
+}

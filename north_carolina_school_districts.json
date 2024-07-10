@@ -1,0 +1,481 @@
+{
+  "links": [
+    {
+      "text": "Alamance-Burlington School System, North Carolina",
+      "href": "https://ballotpedia.org/Alamance-Burlington_School_System,_North_Carolina"
+    },
+    {
+      "text": "Alexander County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Alexander_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Cherokee County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Cherokee_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Alleghany County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Alleghany_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Wilson County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Wilson_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Anson County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Anson_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Polk County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Polk_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Ashe County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Ashe_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Asheboro City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Asheboro_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Asheville City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Asheville_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Edgecombe County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Edgecombe_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Avery County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Avery_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Beaufort County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Beaufort_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Scotland County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Scotland_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Swain County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Swain_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Chatham County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Chatham_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Mitchell County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Mitchell_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Orange County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Orange_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Buncombe County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Buncombe_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Camden County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Camden_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "McDowell County Schools, North Carolina",
+      "href": "https://ballotpedia.org/McDowell_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Carteret County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Carteret_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Hickory City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Hickory_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Chapel Hill-Carrboro City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Chapel_Hill-Carrboro_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Charlotte-Mecklenburg Schools, North Carolina",
+      "href": "https://ballotpedia.org/Charlotte-Mecklenburg_Schools,_North_Carolina"
+    },
+    {
+      "text": "Cleveland County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Cleveland_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Currituck County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Currituck_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Dare County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Dare_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Duplin County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Duplin_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Jackson County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Jackson_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Sampson County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Sampson_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Gates County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Gates_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Graham County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Graham_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Greene County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Greene_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Lenoir County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Lenoir_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Henderson County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Henderson_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Hyde County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Hyde_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Jones County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Jones_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Richmond County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Richmond_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Public Schools of Robeson County, North Carolina",
+      "href": "https://ballotpedia.org/Public_Schools_of_Robeson_County,_North_Carolina"
+    },
+    {
+      "text": "Rutherford County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Rutherford_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Watauga County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Watauga_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Lexington City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Lexington_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Tyrrell County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Tyrrell_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Stanly County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Stanly_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Washington County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Washington_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "New Hanover County Schools, North Carolina",
+      "href": "https://ballotpedia.org/New_Hanover_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Granville County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Granville_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Yadkin County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Yadkin_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Bertie County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Bertie_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Bladen County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Bladen_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Johnston County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Johnston_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Moore County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Moore_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Whiteville City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Whiteville_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Hoke County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Hoke_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Brunswick County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Brunswick_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Gaston County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Gaston_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Macon County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Macon_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Burke County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Burke_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Cabarrus County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Cabarrus_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Caldwell County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Caldwell_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Perquimans County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Perquimans_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Caswell County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Caswell_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Warren County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Warren_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Catawba County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Catawba_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Thomasville City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Thomasville_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Yancey County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Yancey_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Clay County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Clay_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Clinton City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Clinton_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Columbus County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Columbus_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Rockingham County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Rockingham_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Craven County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Craven_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Pender County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Pender_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Mount Airy City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Mount_Airy_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Davie County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Davie_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Edenton-Chowan Schools, North Carolina",
+      "href": "https://ballotpedia.org/Edenton-Chowan_Schools,_North_Carolina"
+    },
+    {
+      "text": "Union County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Union_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Stokes County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Stokes_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Weldon City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Weldon_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Northampton County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Northampton_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Onslow County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Onslow_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Pamlico County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Pamlico_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Wilkes County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Wilkes_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Person County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Person_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Vance County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Vance_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Montgomery County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Montgomery_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Nash County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Nash_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Iredell-Statesville Schools, North Carolina",
+      "href": "https://ballotpedia.org/Iredell-Statesville_Schools,_North_Carolina"
+    },
+    {
+      "text": "Kannapolis City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Kannapolis_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Lee County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Lee_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Mooresville Graded School District, North Carolina",
+      "href": "https://ballotpedia.org/Mooresville_Graded_School_District,_North_Carolina"
+    },
+    {
+      "text": "Roanoke Rapids Graded School District, North Carolina",
+      "href": "https://ballotpedia.org/Roanoke_Rapids_Graded_School_District,_North_Carolina"
+    },
+    {
+      "text": "Guilford County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Guilford_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Martin County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Martin_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Wayne County Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Wayne_County_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "Franklin County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Franklin_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Hertford County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Hertford_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Lincoln County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Lincoln_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Surry County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Surry_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Haywood County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Haywood_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Halifax County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Halifax_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Madison County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Madison_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Elkin City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Elkin_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Harnett County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Harnett_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Pitt County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Pitt_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Newton-Conover City Schools, North Carolina",
+      "href": "https://ballotpedia.org/Newton-Conover_City_Schools,_North_Carolina"
+    },
+    {
+      "text": "Transylvania County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Transylvania_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Davidson County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Davidson_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Wake County Public School System, North Carolina",
+      "href": "https://ballotpedia.org/Wake_County_Public_School_System,_North_Carolina"
+    },
+    {
+      "text": "Cumberland County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Cumberland_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Winston-Salem/Forsyth County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Winston-Salem/Forsyth_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Durham Public Schools, North Carolina",
+      "href": "https://ballotpedia.org/Durham_Public_Schools,_North_Carolina"
+    },
+    {
+      "text": "East Carolina Community School District, North Carolina",
+      "href": "https://ballotpedia.org/East_Carolina_Community_School_District,_North_Carolina"
+    },
+    {
+      "text": "Catamount School District, North Carolina",
+      "href": "https://ballotpedia.org/Catamount_School_District,_North_Carolina"
+    },
+    {
+      "text": "D.C. Virgo Preparatory Academy School District, North Carolina",
+      "href": "https://ballotpedia.org/D.C._Virgo_Preparatory_Academy_School_District,_North_Carolina"
+    },
+    {
+      "text": "Moss Street Partnership School District, North Carolina",
+      "href": "https://ballotpedia.org/Moss_Street_Partnership_School_District,_North_Carolina"
+    },
+    {
+      "text": "Elizabeth City-Pasquotank Schools, North Carolina",
+      "href": "https://ballotpedia.org/Elizabeth_City-Pasquotank_Schools,_North_Carolina"
+    },
+    {
+      "text": "Randolph County Schools, North Carolina",
+      "href": "https://ballotpedia.org/Randolph_County_Schools,_North_Carolina"
+    },
+    {
+      "text": "Rowan-Salisbury Schools, North Carolina",
+      "href": "https://ballotpedia.org/Rowan-Salisbury_Schools,_North_Carolina"
+    }
+  ],
+  "count": 119
+}

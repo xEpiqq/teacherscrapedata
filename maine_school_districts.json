@@ -1,0 +1,853 @@
+{
+  "links": [
+    {
+      "text": "York School Department, Maine",
+      "href": "https://ballotpedia.org/York_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 52, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_52,_Maine"
+    },
+    {
+      "text": "Boothbay-Boothbay Harbor Community School District, Maine",
+      "href": "https://ballotpedia.org/Boothbay-Boothbay_Harbor_Community_School_District,_Maine"
+    },
+    {
+      "text": "The Forks Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/The_Forks_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Chebeague Island School Department, Maine",
+      "href": "https://ballotpedia.org/Chebeague_Island_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 4, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_4,_Maine"
+    },
+    {
+      "text": "Bangor School Department, Maine",
+      "href": "https://ballotpedia.org/Bangor_School_Department,_Maine"
+    },
+    {
+      "text": "Easton School Department, Maine",
+      "href": "https://ballotpedia.org/Easton_School_Department,_Maine"
+    },
+    {
+      "text": "Hermon School Department, Maine",
+      "href": "https://ballotpedia.org/Hermon_School_Department,_Maine"
+    },
+    {
+      "text": "Deer Isle-Stonington Community School District, Maine",
+      "href": "https://ballotpedia.org/Deer_Isle-Stonington_Community_School_District,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 59, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_59,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 53, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_53,_Maine"
+    },
+    {
+      "text": "Waterville School Department, Maine",
+      "href": "https://ballotpedia.org/Waterville_School_Department,_Maine"
+    },
+    {
+      "text": "Grand Isle School Department, Maine",
+      "href": "https://ballotpedia.org/Grand_Isle_School_Department,_Maine"
+    },
+    {
+      "text": "Upton School Department, Maine",
+      "href": "https://ballotpedia.org/Upton_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 1, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_1,_Maine"
+    },
+    {
+      "text": "Lewiston School Department, Maine",
+      "href": "https://ballotpedia.org/Lewiston_School_Department,_Maine"
+    },
+    {
+      "text": "Deblois School Department, Maine",
+      "href": "https://ballotpedia.org/Deblois_School_Department,_Maine"
+    },
+    {
+      "text": "Limestone School Department, Maine",
+      "href": "https://ballotpedia.org/Limestone_School_Department,_Maine"
+    },
+    {
+      "text": "Coplin Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Coplin_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Nashville Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Nashville_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Beddington School Department, Maine",
+      "href": "https://ballotpedia.org/Beddington_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 17, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_17,_Maine"
+    },
+    {
+      "text": "Medford School Department, Maine",
+      "href": "https://ballotpedia.org/Medford_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 49, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_49,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 46, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_46,_Maine"
+    },
+    {
+      "text": "Isle au Haut School Department, Maine",
+      "href": "https://ballotpedia.org/Isle_au_Haut_School_Department,_Maine"
+    },
+    {
+      "text": "Long Island School Department, Maine",
+      "href": "https://ballotpedia.org/Long_Island_School_Department,_Maine"
+    },
+    {
+      "text": "Lowell School Department, Maine",
+      "href": "https://ballotpedia.org/Lowell_School_Department,_Maine"
+    },
+    {
+      "text": "Glenburn School Department, Maine",
+      "href": "https://ballotpedia.org/Glenburn_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 20, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_20,_Maine"
+    },
+    {
+      "text": "Bridgewater School Department, Maine",
+      "href": "https://ballotpedia.org/Bridgewater_School_Department,_Maine"
+    },
+    {
+      "text": "Seboeis Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Seboeis_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 24, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_24,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 64, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_64,_Maine"
+    },
+    {
+      "text": "Islesboro School Department, Maine",
+      "href": "https://ballotpedia.org/Islesboro_School_Department,_Maine"
+    },
+    {
+      "text": "Cape Elizabeth School Department, Maine",
+      "href": "https://ballotpedia.org/Cape_Elizabeth_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 29, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_29,_Maine"
+    },
+    {
+      "text": "Fayette School Department, Maine",
+      "href": "https://ballotpedia.org/Fayette_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 42, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_42,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 6, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_6,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 37, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_37,_Maine"
+    },
+    {
+      "text": "Caratunk School Department, Maine",
+      "href": "https://ballotpedia.org/Caratunk_School_Department,_Maine"
+    },
+    {
+      "text": "Winthrop School Department, Maine",
+      "href": "https://ballotpedia.org/Winthrop_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 27, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_27,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 60, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_60,_Maine"
+    },
+    {
+      "text": "Brunswick School Department, Maine",
+      "href": "https://ballotpedia.org/Brunswick_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 3, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_3,_Maine"
+    },
+    {
+      "text": "Brewer School Department, Maine",
+      "href": "https://ballotpedia.org/Brewer_School_Department,_Maine"
+    },
+    {
+      "text": "Millinocket School Department, Maine",
+      "href": "https://ballotpedia.org/Millinocket_School_Department,_Maine"
+    },
+    {
+      "text": "Pleasant Ridge Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Pleasant_Ridge_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 30, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_30,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 10, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_10,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 40, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_40,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 54, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_54,_Maine"
+    },
+    {
+      "text": "Dedham School Department, Maine",
+      "href": "https://ballotpedia.org/Dedham_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 19, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_19,_Maine"
+    },
+    {
+      "text": "Portland School Department, Maine",
+      "href": "https://ballotpedia.org/Portland_School_Department,_Maine"
+    },
+    {
+      "text": "South Portland School Department, Maine",
+      "href": "https://ballotpedia.org/South_Portland_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 55, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_55,_Maine"
+    },
+    {
+      "text": "West Forks Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/West_Forks_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Harmony School Department, Maine",
+      "href": "https://ballotpedia.org/Harmony_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 41, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_41,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 15, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_15,_Maine"
+    },
+    {
+      "text": "Dennistown Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Dennistown_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Wiscasset School Department, Maine",
+      "href": "https://ballotpedia.org/Wiscasset_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 61, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_61,_Maine"
+    },
+    {
+      "text": "East Range Community School District, Maine",
+      "href": "https://ballotpedia.org/East_Range_Community_School_District,_Maine"
+    },
+    {
+      "text": "Madawaska School Department, Maine",
+      "href": "https://ballotpedia.org/Madawaska_School_Department,_Maine"
+    },
+    {
+      "text": "Monhegan Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Monhegan_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Moosabec Community School District, Maine",
+      "href": "https://ballotpedia.org/Moosabec_Community_School_District,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 31, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_31,_Maine"
+    },
+    {
+      "text": "Carrabassett Valley School Department, Maine",
+      "href": "https://ballotpedia.org/Carrabassett_Valley_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 74, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_74,_Maine"
+    },
+    {
+      "text": "Wells-Ogunquit Community School District, Maine",
+      "href": "https://ballotpedia.org/Wells-Ogunquit_Community_School_District,_Maine"
+    },
+    {
+      "text": "Acton School Department, Maine",
+      "href": "https://ballotpedia.org/Acton_School_Department,_Maine"
+    },
+    {
+      "text": "Airline Community School District, Maine",
+      "href": "https://ballotpedia.org/Airline_Community_School_District,_Maine"
+    },
+    {
+      "text": "Auburn School Department, Maine",
+      "href": "https://ballotpedia.org/Auburn_School_Department,_Maine"
+    },
+    {
+      "text": "Augusta School Department, Maine",
+      "href": "https://ballotpedia.org/Augusta_School_Department,_Maine"
+    },
+    {
+      "text": "Caswell School Department, Maine",
+      "href": "https://ballotpedia.org/Caswell_School_Department,_Maine"
+    },
+    {
+      "text": "Biddeford School Department, Maine",
+      "href": "https://ballotpedia.org/Biddeford_School_Department,_Maine"
+    },
+    {
+      "text": "Bowerbank School Department, Maine",
+      "href": "https://ballotpedia.org/Bowerbank_School_Department,_Maine"
+    },
+    {
+      "text": "East Machias School Department, Maine",
+      "href": "https://ballotpedia.org/East_Machias_School_Department,_Maine"
+    },
+    {
+      "text": "Ellsworth School Department, Maine",
+      "href": "https://ballotpedia.org/Ellsworth_School_Department,_Maine"
+    },
+    {
+      "text": "Five Town Community School District, Maine",
+      "href": "https://ballotpedia.org/Five_Town_Community_School_District,_Maine"
+    },
+    {
+      "text": "Falmouth School Department, Maine",
+      "href": "https://ballotpedia.org/Falmouth_School_Department,_Maine"
+    },
+    {
+      "text": "Gilead School Department, Maine",
+      "href": "https://ballotpedia.org/Gilead_School_Department,_Maine"
+    },
+    {
+      "text": "Glenwood Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Glenwood_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Gorham School Department, Maine",
+      "href": "https://ballotpedia.org/Gorham_School_Department,_Maine"
+    },
+    {
+      "text": "Great Salt Bay Community School District, Maine",
+      "href": "https://ballotpedia.org/Great_Salt_Bay_Community_School_District,_Maine"
+    },
+    {
+      "text": "Highland Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Highland_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Kittery School Department, Maine",
+      "href": "https://ballotpedia.org/Kittery_School_Department,_Maine"
+    },
+    {
+      "text": "Lake View Plantation School Department, Maine",
+      "href": "https://ballotpedia.org/Lake_View_Plantation_School_Department,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 11, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_11,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 13, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_13,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 32, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_32,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 33, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_33,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 35, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_35,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 44, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_44,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 45, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_45,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 51, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_51,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 57, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_57,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 58, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_58,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 63, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_63,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 68, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_68,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 70, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_70,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 72, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_72,_Maine"
+    },
+    {
+      "text": "Maine School Administrative District 75, Maine",
+      "href": "https://ballotpedia.org/Maine_School_Administrative_District_75,_Maine"
+    },
+    {
+      "text": "Sanford School Department, Maine",
+      "href": "https://ballotpedia.org/Sanford_School_Department,_Maine"
+    },
+    {
+      "text": "Westbrook School Department, Maine",
+      "href": "https://ballotpedia.org/Westbrook_School_Department,_Maine"
+    },
+    {
+      "text": "Scarborough School Department, Maine",
+      "href": "https://ballotpedia.org/Scarborough_School_Department,_Maine"
+    },
+    {
+      "text": "Saco School Department, Maine",
+      "href": "https://ballotpedia.org/Saco_School_Department,_Maine"
+    },
+    {
+      "text": "Dayton School Department, Maine",
+      "href": "https://ballotpedia.org/Dayton_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 09, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_09,_Maine"
+    },
+    {
+      "text": "Athens School Department, Maine",
+      "href": "https://ballotpedia.org/Athens_School_Department,_Maine"
+    },
+    {
+      "text": "Lamoine School Department, Maine",
+      "href": "https://ballotpedia.org/Lamoine_School_Department,_Maine"
+    },
+    {
+      "text": "St. George Municipal School Unit, Maine",
+      "href": "https://ballotpedia.org/St._George_Municipal_School_Unit,_Maine"
+    },
+    {
+      "text": "Regional School Unit 71, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_71,_Maine"
+    },
+    {
+      "text": "West Bath School Department, Maine",
+      "href": "https://ballotpedia.org/West_Bath_School_Department,_Maine"
+    },
+    {
+      "text": "Andover School Department, Maine",
+      "href": "https://ballotpedia.org/Andover_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 67, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_67,_Maine"
+    },
+    {
+      "text": "Regional School Unit 22, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_22,_Maine"
+    },
+    {
+      "text": "Cherryfield School Department, Maine",
+      "href": "https://ballotpedia.org/Cherryfield_School_Department,_Maine"
+    },
+    {
+      "text": "Veazie School Department, Maine",
+      "href": "https://ballotpedia.org/Veazie_School_Department,_Maine"
+    },
+    {
+      "text": "Sebago School Department, Maine",
+      "href": "https://ballotpedia.org/Sebago_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 89, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_89,_Maine"
+    },
+    {
+      "text": "Eustis School Department, Maine",
+      "href": "https://ballotpedia.org/Eustis_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 56, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_56,_Maine"
+    },
+    {
+      "text": "Northport School Department, Maine",
+      "href": "https://ballotpedia.org/Northport_School_Department,_Maine"
+    },
+    {
+      "text": "Baileyville School Department, Maine",
+      "href": "https://ballotpedia.org/Baileyville_School_Department,_Maine"
+    },
+    {
+      "text": "Bar Harbor School Department, Maine",
+      "href": "https://ballotpedia.org/Bar_Harbor_School_Department,_Maine"
+    },
+    {
+      "text": "Alexander School Department, Maine",
+      "href": "https://ballotpedia.org/Alexander_School_Department,_Maine"
+    },
+    {
+      "text": "Beals School Department, Maine",
+      "href": "https://ballotpedia.org/Beals_School_Department,_Maine"
+    },
+    {
+      "text": "Blue Hill School Department, Maine",
+      "href": "https://ballotpedia.org/Blue_Hill_School_Department,_Maine"
+    },
+    {
+      "text": "Bristol School Department, Maine",
+      "href": "https://ballotpedia.org/Bristol_School_Department,_Maine"
+    },
+    {
+      "text": "Appleton School Department, Maine",
+      "href": "https://ballotpedia.org/Appleton_School_Department,_Maine"
+    },
+    {
+      "text": "Castine School Department, Maine",
+      "href": "https://ballotpedia.org/Castine_School_Department,_Maine"
+    },
+    {
+      "text": "Charlotte School Department, Maine",
+      "href": "https://ballotpedia.org/Charlotte_School_Department,_Maine"
+    },
+    {
+      "text": "Calais School Department, Maine",
+      "href": "https://ballotpedia.org/Calais_School_Department,_Maine"
+    },
+    {
+      "text": "Cutler School Department, Maine",
+      "href": "https://ballotpedia.org/Cutler_School_Department,_Maine"
+    },
+    {
+      "text": "Brooksville School Department, Maine",
+      "href": "https://ballotpedia.org/Brooksville_School_Department,_Maine"
+    },
+    {
+      "text": "Brooklin School Department, Maine",
+      "href": "https://ballotpedia.org/Brooklin_School_Department,_Maine"
+    },
+    {
+      "text": "Eastport School Department, Maine",
+      "href": "https://ballotpedia.org/Eastport_School_Department,_Maine"
+    },
+    {
+      "text": "Frenchboro School Department, Maine",
+      "href": "https://ballotpedia.org/Frenchboro_School_Department,_Maine"
+    },
+    {
+      "text": "Edgecomb School Department, Maine",
+      "href": "https://ballotpedia.org/Edgecomb_School_Department,_Maine"
+    },
+    {
+      "text": "Cranberry Isles School Department, Maine",
+      "href": "https://ballotpedia.org/Cranberry_Isles_School_Department,_Maine"
+    },
+    {
+      "text": "East Millinocket School Department, Maine",
+      "href": "https://ballotpedia.org/East_Millinocket_School_Department,_Maine"
+    },
+    {
+      "text": "Georgetown School Department, Maine",
+      "href": "https://ballotpedia.org/Georgetown_School_Department,_Maine"
+    },
+    {
+      "text": "Greenville School Department, Maine",
+      "href": "https://ballotpedia.org/Greenville_School_Department,_Maine"
+    },
+    {
+      "text": "Greenbush School Department, Maine",
+      "href": "https://ballotpedia.org/Greenbush_School_Department,_Maine"
+    },
+    {
+      "text": "Hope School Department, Maine",
+      "href": "https://ballotpedia.org/Hope_School_Department,_Maine"
+    },
+    {
+      "text": "Hancock Public Schools, Maine",
+      "href": "https://ballotpedia.org/Hancock_Public_Schools,_Maine"
+    },
+    {
+      "text": "Jefferson School Department, Maine",
+      "href": "https://ballotpedia.org/Jefferson_School_Department,_Maine"
+    },
+    {
+      "text": "Jonesboro School Department, Maine",
+      "href": "https://ballotpedia.org/Jonesboro_School_Department,_Maine"
+    },
+    {
+      "text": "Jonesport School Department, Maine",
+      "href": "https://ballotpedia.org/Jonesport_School_Department,_Maine"
+    },
+    {
+      "text": "Lincolnville School Department, Maine",
+      "href": "https://ballotpedia.org/Lincolnville_School_Department,_Maine"
+    },
+    {
+      "text": "Lisbon School Department, Maine",
+      "href": "https://ballotpedia.org/Lisbon_School_Department,_Maine"
+    },
+    {
+      "text": "Mount Desert Public Schools, Maine",
+      "href": "https://ballotpedia.org/Mount_Desert_Public_Schools,_Maine"
+    },
+    {
+      "text": "Orrington School Department, Maine",
+      "href": "https://ballotpedia.org/Orrington_School_Department,_Maine"
+    },
+    {
+      "text": "Pembroke School Department, Maine",
+      "href": "https://ballotpedia.org/Pembroke_School_Department,_Maine"
+    },
+    {
+      "text": "Nobleboro School Department, Maine",
+      "href": "https://ballotpedia.org/Nobleboro_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 01, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_01,_Maine"
+    },
+    {
+      "text": "Otis School Department, Maine",
+      "href": "https://ballotpedia.org/Otis_School_Department,_Maine"
+    },
+    {
+      "text": "Machiasport School Department, Maine",
+      "href": "https://ballotpedia.org/Machiasport_School_Department,_Maine"
+    },
+    {
+      "text": "Penobscot School Department, Maine",
+      "href": "https://ballotpedia.org/Penobscot_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 02, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_02,_Maine"
+    },
+    {
+      "text": "Medway School Department, Maine",
+      "href": "https://ballotpedia.org/Medway_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 04, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_04,_Maine"
+    },
+    {
+      "text": "Regional School Unit 13, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_13,_Maine"
+    },
+    {
+      "text": "Perry School Department, Maine",
+      "href": "https://ballotpedia.org/Perry_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 12, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_12,_Maine"
+    },
+    {
+      "text": "Regional School Unit 05, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_05,_Maine"
+    },
+    {
+      "text": "Milford School Department, Maine",
+      "href": "https://ballotpedia.org/Milford_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 10, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_10,_Maine"
+    },
+    {
+      "text": "Machias School Department, Maine",
+      "href": "https://ballotpedia.org/Machias_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 16, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_16,_Maine"
+    },
+    {
+      "text": "Princeton School Department, Maine",
+      "href": "https://ballotpedia.org/Princeton_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 14, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_14,_Maine"
+    },
+    {
+      "text": "Regional School Unit 18, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_18,_Maine"
+    },
+    {
+      "text": "Regional School Unit 19, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_19,_Maine"
+    },
+    {
+      "text": "Regional School Unit 20, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_20,_Maine"
+    },
+    {
+      "text": "Regional School Unit 21, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_21,_Maine"
+    },
+    {
+      "text": "Regional School Unit 23, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_23,_Maine"
+    },
+    {
+      "text": "Regional School Unit 25, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_25,_Maine"
+    },
+    {
+      "text": "Regional School Unit 26, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_26,_Maine"
+    },
+    {
+      "text": "Regional School Unit 24, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_24,_Maine"
+    },
+    {
+      "text": "Regional School Unit 34, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_34,_Maine"
+    },
+    {
+      "text": "Regional School Unit 38, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_38,_Maine"
+    },
+    {
+      "text": "Regional School Unit 50, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_50,_Maine"
+    },
+    {
+      "text": "Regional School Unit 73, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_73,_Maine"
+    },
+    {
+      "text": "South Bristol School Department, Maine",
+      "href": "https://ballotpedia.org/South_Bristol_School_Department,_Maine"
+    },
+    {
+      "text": "Regional School Unit 39, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_39,_Maine"
+    },
+    {
+      "text": "Sedgwick School Department, Maine",
+      "href": "https://ballotpedia.org/Sedgwick_School_Department,_Maine"
+    },
+    {
+      "text": "Southport School Department, Maine",
+      "href": "https://ballotpedia.org/Southport_School_Department,_Maine"
+    },
+    {
+      "text": "Southwest Harbor School Department, Maine",
+      "href": "https://ballotpedia.org/Southwest_Harbor_School_Department,_Maine"
+    },
+    {
+      "text": "Surry School Department, Maine",
+      "href": "https://ballotpedia.org/Surry_School_Department,_Maine"
+    },
+    {
+      "text": "Tremont School Department, Maine",
+      "href": "https://ballotpedia.org/Tremont_School_Department,_Maine"
+    },
+    {
+      "text": "Trenton School Department, Maine",
+      "href": "https://ballotpedia.org/Trenton_School_Department,_Maine"
+    },
+    {
+      "text": "Vassalboro School Department, Maine",
+      "href": "https://ballotpedia.org/Vassalboro_School_Department,_Maine"
+    },
+    {
+      "text": "Yarmouth School Department, Maine",
+      "href": "https://ballotpedia.org/Yarmouth_School_Department,_Maine"
+    },
+    {
+      "text": "Wesley School Department, Maine",
+      "href": "https://ballotpedia.org/Wesley_School_Department,_Maine"
+    },
+    {
+      "text": "Winslow School Department, Maine",
+      "href": "https://ballotpedia.org/Winslow_School_Department,_Maine"
+    },
+    {
+      "text": "Whiting School Department, Maine",
+      "href": "https://ballotpedia.org/Whiting_School_Department,_Maine"
+    },
+    {
+      "text": "Woodland School Department, Maine",
+      "href": "https://ballotpedia.org/Woodland_School_Department,_Maine"
+    },
+    {
+      "text": "User:Matt Latourelle/schools-sandbox4",
+      "href": "https://ballotpedia.org/User:Matt_Latourelle/schools-sandbox4"
+    },
+    {
+      "text": "Camden Rockport Schools, Maine",
+      "href": "https://ballotpedia.org/Camden_Rockport_Schools,_Maine"
+    },
+    {
+      "text": "East Grand School, Maine",
+      "href": "https://ballotpedia.org/East_Grand_School,_Maine"
+    },
+    {
+      "text": "North Haven Community School, Maine",
+      "href": "https://ballotpedia.org/North_Haven_Community_School,_Maine"
+    },
+    {
+      "text": "Rangeley Lakes Regional School, Maine",
+      "href": "https://ballotpedia.org/Rangeley_Lakes_Regional_School,_Maine"
+    },
+    {
+      "text": "Regional School Unit 82, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_82,_Maine"
+    },
+    {
+      "text": "Regional School Unit 87, Maine",
+      "href": "https://ballotpedia.org/Regional_School_Unit_87,_Maine"
+    },
+    {
+      "text": "Vinalhaven School, Maine",
+      "href": "https://ballotpedia.org/Vinalhaven_School,_Maine"
+    }
+  ],
+  "count": 212
+}

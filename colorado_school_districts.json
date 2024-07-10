@@ -1,0 +1,725 @@
+{
+  "links": [
+    {
+      "text": "Elizabeth School District, Colorado",
+      "href": "https://ballotpedia.org/Elizabeth_School_District,_Colorado"
+    },
+    {
+      "text": "Manitou Springs School District 14, Colorado",
+      "href": "https://ballotpedia.org/Manitou_Springs_School_District_14,_Colorado"
+    },
+    {
+      "text": "Alamosa School District RE-11J, Colorado",
+      "href": "https://ballotpedia.org/Alamosa_School_District_RE-11J,_Colorado"
+    },
+    {
+      "text": "Westminster Public Schools, Colorado",
+      "href": "https://ballotpedia.org/Westminster_Public_Schools,_Colorado"
+    },
+    {
+      "text": "Limon School District RE-4J, Colorado",
+      "href": "https://ballotpedia.org/Limon_School_District_RE-4J,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-8, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-8,_Colorado"
+    },
+    {
+      "text": "East Grand School District 2, Colorado",
+      "href": "https://ballotpedia.org/East_Grand_School_District_2,_Colorado"
+    },
+    {
+      "text": "Julesburg School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Julesburg_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Mapleton School District 1, Colorado",
+      "href": "https://ballotpedia.org/Mapleton_School_District_1,_Colorado"
+    },
+    {
+      "text": "Arickaree School District R-2, Colorado",
+      "href": "https://ballotpedia.org/Arickaree_School_District_R-2,_Colorado"
+    },
+    {
+      "text": "Pritchett School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/Pritchett_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Meeker School District RE1, Colorado",
+      "href": "https://ballotpedia.org/Meeker_School_District_RE1,_Colorado"
+    },
+    {
+      "text": "Briggsdale School District RE-10, Colorado",
+      "href": "https://ballotpedia.org/Briggsdale_School_District_RE-10,_Colorado"
+    },
+    {
+      "text": "Eaton School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Eaton_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Norwood School District R-2J, Colorado",
+      "href": "https://ballotpedia.org/Norwood_School_District_R-2J,_Colorado"
+    },
+    {
+      "text": "Silverton School District 1, Colorado",
+      "href": "https://ballotpedia.org/Silverton_School_District_1,_Colorado"
+    },
+    {
+      "text": "Bethune School District R-5, Colorado",
+      "href": "https://ballotpedia.org/Bethune_School_District_R-5,_Colorado"
+    },
+    {
+      "text": "Primero School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Primero_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Fowler School District R-4J, Colorado",
+      "href": "https://ballotpedia.org/Fowler_School_District_R-4J,_Colorado"
+    },
+    {
+      "text": "Arriba-Flagler School District C-20, Colorado",
+      "href": "https://ballotpedia.org/Arriba-Flagler_School_District_C-20,_Colorado"
+    },
+    {
+      "text": "Frenchman School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/Frenchman_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Bayfield School District 10 JT-R, Colorado",
+      "href": "https://ballotpedia.org/Bayfield_School_District_10_JT-R,_Colorado"
+    },
+    {
+      "text": "Cheyenne Mountain School District 12, Colorado",
+      "href": "https://ballotpedia.org/Cheyenne_Mountain_School_District_12,_Colorado"
+    },
+    {
+      "text": "Valley School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Valley_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "West Grand School District 1-JT, Colorado",
+      "href": "https://ballotpedia.org/West_Grand_School_District_1-JT,_Colorado"
+    },
+    {
+      "text": "Northglenn-Thornton School District, Colorado",
+      "href": "https://ballotpedia.org/Northglenn-Thornton_School_District,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-9, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-9,_Colorado"
+    },
+    {
+      "text": "Bennett School District 29-J, Colorado",
+      "href": "https://ballotpedia.org/Bennett_School_District_29-J,_Colorado"
+    },
+    {
+      "text": "Moffat County School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Moffat_County_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Sangre de Cristo School District RE-22J, Colorado",
+      "href": "https://ballotpedia.org/Sangre_de_Cristo_School_District_RE-22J,_Colorado"
+    },
+    {
+      "text": "West End School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/West_End_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Kiowa County School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Kiowa_County_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Woodlin School District R-104, Colorado",
+      "href": "https://ballotpedia.org/Woodlin_School_District_R-104,_Colorado"
+    },
+    {
+      "text": "Sierra Grande School District R-30, Colorado",
+      "href": "https://ballotpedia.org/Sierra_Grande_School_District_R-30,_Colorado"
+    },
+    {
+      "text": "Roaring Fork School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Roaring_Fork_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Kim School District RE-88, Colorado",
+      "href": "https://ballotpedia.org/Kim_School_District_RE-88,_Colorado"
+    },
+    {
+      "text": "Hinsdale County School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Hinsdale_County_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Sargent School District RE-33J, Colorado",
+      "href": "https://ballotpedia.org/Sargent_School_District_RE-33J,_Colorado"
+    },
+    {
+      "text": "Fremont School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Fremont_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Brush School District RE-2J, Colorado",
+      "href": "https://ballotpedia.org/Brush_School_District_RE-2J,_Colorado"
+    },
+    {
+      "text": "Dolores County School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Dolores_County_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Colorado Springs School District 11, Colorado",
+      "href": "https://ballotpedia.org/Colorado_Springs_School_District_11,_Colorado"
+    },
+    {
+      "text": "Aspen School District 1, Colorado",
+      "href": "https://ballotpedia.org/Aspen_School_District_1,_Colorado"
+    },
+    {
+      "text": "Douglas County School District, Colorado",
+      "href": "https://ballotpedia.org/Douglas_County_School_District,_Colorado"
+    },
+    {
+      "text": "Widefield School District 3, Colorado",
+      "href": "https://ballotpedia.org/Widefield_School_District_3,_Colorado"
+    },
+    {
+      "text": "Platte Canyon School District 1, Colorado",
+      "href": "https://ballotpedia.org/Platte_Canyon_School_District_1,_Colorado"
+    },
+    {
+      "text": "Stratton School District R-4, Colorado",
+      "href": "https://ballotpedia.org/Stratton_School_District_R-4,_Colorado"
+    },
+    {
+      "text": "Clear Creek School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Clear_Creek_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Center School District 26-JT, Colorado",
+      "href": "https://ballotpedia.org/Center_School_District_26-JT,_Colorado"
+    },
+    {
+      "text": "Sheridan School District 2, Colorado",
+      "href": "https://ballotpedia.org/Sheridan_School_District_2,_Colorado"
+    },
+    {
+      "text": "Big Sandy School District 100J, Colorado",
+      "href": "https://ballotpedia.org/Big_Sandy_School_District_100J,_Colorado"
+    },
+    {
+      "text": "Summit School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Summit_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Lone Star School District 101, Colorado",
+      "href": "https://ballotpedia.org/Lone_Star_School_District_101,_Colorado"
+    },
+    {
+      "text": "Hi-Plains School District R-23, Colorado",
+      "href": "https://ballotpedia.org/Hi-Plains_School_District_R-23,_Colorado"
+    },
+    {
+      "text": "School District 49, Colorado",
+      "href": "https://ballotpedia.org/School_District_49,_Colorado"
+    },
+    {
+      "text": "De Beque School District 49-JT, Colorado",
+      "href": "https://ballotpedia.org/De_Beque_School_District_49-JT,_Colorado"
+    },
+    {
+      "text": "Kit Carson School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Kit_Carson_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Wray School District RD-2, Colorado",
+      "href": "https://ballotpedia.org/Wray_School_District_RD-2,_Colorado"
+    },
+    {
+      "text": "Peetz Plateau School District RE-5, Colorado",
+      "href": "https://ballotpedia.org/Peetz_Plateau_School_District_RE-5,_Colorado"
+    },
+    {
+      "text": "Cotopaxi School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/Cotopaxi_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Prairie School District RE-11, Colorado",
+      "href": "https://ballotpedia.org/Prairie_School_District_RE-11,_Colorado"
+    },
+    {
+      "text": "Yuma School District 1, Colorado",
+      "href": "https://ballotpedia.org/Yuma_School_District_1,_Colorado"
+    },
+    {
+      "text": "Platte Valley School District RE-7, Colorado",
+      "href": "https://ballotpedia.org/Platte_Valley_School_District_RE-7,_Colorado"
+    },
+    {
+      "text": "Adams County School District 14, Colorado",
+      "href": "https://ballotpedia.org/Adams_County_School_District_14,_Colorado"
+    },
+    {
+      "text": "Boulder Valley School District, Colorado",
+      "href": "https://ballotpedia.org/Boulder_Valley_School_District,_Colorado"
+    },
+    {
+      "text": "Creede School District, Colorado",
+      "href": "https://ballotpedia.org/Creede_School_District,_Colorado"
+    },
+    {
+      "text": "Gilpin County School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Gilpin_County_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "School District 27J, Colorado",
+      "href": "https://ballotpedia.org/School_District_27J,_Colorado"
+    },
+    {
+      "text": "Walsh School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Walsh_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Rangely School District RE-4, Colorado",
+      "href": "https://ballotpedia.org/Rangely_School_District_RE-4,_Colorado"
+    },
+    {
+      "text": "Mountain Valley School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Mountain_Valley_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Swink School District 33, Colorado",
+      "href": "https://ballotpedia.org/Swink_School_District_33,_Colorado"
+    },
+    {
+      "text": "Liberty School District J-4, Colorado",
+      "href": "https://ballotpedia.org/Liberty_School_District_J-4,_Colorado"
+    },
+    {
+      "text": "Aguilar School District RE-6, Colorado",
+      "href": "https://ballotpedia.org/Aguilar_School_District_RE-6,_Colorado"
+    },
+    {
+      "text": "Genoa-Hugo School District C-113, Colorado",
+      "href": "https://ballotpedia.org/Genoa-Hugo_School_District_C-113,_Colorado"
+    },
+    {
+      "text": "Poudre School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Poudre_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Ridgway School District R-2, Colorado",
+      "href": "https://ballotpedia.org/Ridgway_School_District_R-2,_Colorado"
+    },
+    {
+      "text": "Wiggins School District RE-50J, Colorado",
+      "href": "https://ballotpedia.org/Wiggins_School_District_RE-50J,_Colorado"
+    },
+    {
+      "text": "Telluride School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Telluride_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Hayden School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Hayden_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Buena Vista School District R-31, Colorado",
+      "href": "https://ballotpedia.org/Buena_Vista_School_District_R-31,_Colorado"
+    },
+    {
+      "text": "Thompson School District R-2J, Colorado",
+      "href": "https://ballotpedia.org/Thompson_School_District_R-2J,_Colorado"
+    },
+    {
+      "text": "Otis School District R-3, Colorado",
+      "href": "https://ballotpedia.org/Otis_School_District_R-3,_Colorado"
+    },
+    {
+      "text": "Durango School District 9-R, Colorado",
+      "href": "https://ballotpedia.org/Durango_School_District_9-R,_Colorado"
+    },
+    {
+      "text": "East Otero School District R-1, Colorado",
+      "href": "https://ballotpedia.org/East_Otero_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Cripple Creek-Victor School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Cripple_Creek-Victor_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Crowley County School District RE-1-J, Colorado",
+      "href": "https://ballotpedia.org/Crowley_County_School_District_RE-1-J,_Colorado"
+    },
+    {
+      "text": "Montezuma-Cortez School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Montezuma-Cortez_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Centennial School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Centennial_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Gunnison Watershed School District RE-1J, Colorado",
+      "href": "https://ballotpedia.org/Gunnison_Watershed_School_District_RE-1J,_Colorado"
+    },
+    {
+      "text": "Buffalo School District RE-4, Colorado",
+      "href": "https://ballotpedia.org/Buffalo_School_District_RE-4,_Colorado"
+    },
+    {
+      "text": "Wiley School District RE-13-JT, Colorado",
+      "href": "https://ballotpedia.org/Wiley_School_District_RE-13-JT,_Colorado"
+    },
+    {
+      "text": "McClave School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/McClave_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Kiowa County School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Kiowa_County_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Custer County School District C-1, Colorado",
+      "href": "https://ballotpedia.org/Custer_County_School_District_C-1,_Colorado"
+    },
+    {
+      "text": "Rocky Ford School District R-2, Colorado",
+      "href": "https://ballotpedia.org/Rocky_Ford_School_District_R-2,_Colorado"
+    },
+    {
+      "text": "Ellicott School District 22, Colorado",
+      "href": "https://ballotpedia.org/Ellicott_School_District_22,_Colorado"
+    },
+    {
+      "text": "Mesa County Valley School District 51, Colorado",
+      "href": "https://ballotpedia.org/Mesa_County_Valley_School_District_51,_Colorado"
+    },
+    {
+      "text": "Trinidad School District 1, Colorado",
+      "href": "https://ballotpedia.org/Trinidad_School_District_1,_Colorado"
+    },
+    {
+      "text": "Akron School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Akron_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Deer Trail School District 26J, Colorado",
+      "href": "https://ballotpedia.org/Deer_Trail_School_District_26J,_Colorado"
+    },
+    {
+      "text": "Manzanola School District 3J, Colorado",
+      "href": "https://ballotpedia.org/Manzanola_School_District_3J,_Colorado"
+    },
+    {
+      "text": "Elbert School District 200, Colorado",
+      "href": "https://ballotpedia.org/Elbert_School_District_200,_Colorado"
+    },
+    {
+      "text": "Vilas School District RE-5, Colorado",
+      "href": "https://ballotpedia.org/Vilas_School_District_RE-5,_Colorado"
+    },
+    {
+      "text": "Agate School District 300, Colorado",
+      "href": "https://ballotpedia.org/Agate_School_District_300,_Colorado"
+    },
+    {
+      "text": "Archuleta County School District 50-JT, Colorado",
+      "href": "https://ballotpedia.org/Archuleta_County_School_District_50-JT,_Colorado"
+    },
+    {
+      "text": "Hoehne School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/Hoehne_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Holyoke School District RE-1J, Colorado",
+      "href": "https://ballotpedia.org/Holyoke_School_District_RE-1J,_Colorado"
+    },
+    {
+      "text": "Adams 12 Five Star Schools, Colorado",
+      "href": "https://ballotpedia.org/Adams_12_Five_Star_Schools,_Colorado"
+    },
+    {
+      "text": "Miami-Yoder School District 60-JT, Colorado",
+      "href": "https://ballotpedia.org/Miami-Yoder_School_District_60-JT,_Colorado"
+    },
+    {
+      "text": "Branson School District RE-82, Colorado",
+      "href": "https://ballotpedia.org/Branson_School_District_RE-82,_Colorado"
+    },
+    {
+      "text": "Eagle County School District RE 50, Colorado",
+      "href": "https://ballotpedia.org/Eagle_County_School_District_RE_50,_Colorado"
+    },
+    {
+      "text": "Fountain School District 8, Colorado",
+      "href": "https://ballotpedia.org/Fountain_School_District_8,_Colorado"
+    },
+    {
+      "text": "Salida School District R-32, Colorado",
+      "href": "https://ballotpedia.org/Salida_School_District_R-32,_Colorado"
+    },
+    {
+      "text": "Dolores School District RE-4A, Colorado",
+      "href": "https://ballotpedia.org/Dolores_School_District_RE-4A,_Colorado"
+    },
+    {
+      "text": "Edison School District 54-JT, Colorado",
+      "href": "https://ballotpedia.org/Edison_School_District_54-JT,_Colorado"
+    },
+    {
+      "text": "Burlington School District RE-6J, Colorado",
+      "href": "https://ballotpedia.org/Burlington_School_District_RE-6J,_Colorado"
+    },
+    {
+      "text": "Byers School District 32J, Colorado",
+      "href": "https://ballotpedia.org/Byers_School_District_32J,_Colorado"
+    },
+    {
+      "text": "Calhan School District RJ-1, Colorado",
+      "href": "https://ballotpedia.org/Calhan_School_District_RJ-1,_Colorado"
+    },
+    {
+      "text": "Campo School District RE-6, Colorado",
+      "href": "https://ballotpedia.org/Campo_School_District_RE-6,_Colorado"
+    },
+    {
+      "text": "Sanford School District 6J, Colorado",
+      "href": "https://ballotpedia.org/Sanford_School_District_6J,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-5J, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-5J,_Colorado"
+    },
+    {
+      "text": "South Conejos School District RE-10, Colorado",
+      "href": "https://ballotpedia.org/South_Conejos_School_District_RE-10,_Colorado"
+    },
+    {
+      "text": "Cheraw School District 31, Colorado",
+      "href": "https://ballotpedia.org/Cheraw_School_District_31,_Colorado"
+    },
+    {
+      "text": "Cherry Creek School District, Colorado",
+      "href": "https://ballotpedia.org/Cherry_Creek_School_District,_Colorado"
+    },
+    {
+      "text": "Cheyenne County School District RE-5, Colorado",
+      "href": "https://ballotpedia.org/Cheyenne_County_School_District_RE-5,_Colorado"
+    },
+    {
+      "text": "Delta County School District 50J, Colorado",
+      "href": "https://ballotpedia.org/Delta_County_School_District_50J,_Colorado"
+    },
+    {
+      "text": "Garfield County School District 16, Colorado",
+      "href": "https://ballotpedia.org/Garfield_County_School_District_16,_Colorado"
+    },
+    {
+      "text": "Englewood School District 1, Colorado",
+      "href": "https://ballotpedia.org/Englewood_School_District_1,_Colorado"
+    },
+    {
+      "text": "Garfield School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Garfield_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Granada School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Granada_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Greeley-Evans School District 6, Colorado",
+      "href": "https://ballotpedia.org/Greeley-Evans_School_District_6,_Colorado"
+    },
+    {
+      "text": "Hanover School District 28, Colorado",
+      "href": "https://ballotpedia.org/Hanover_School_District_28,_Colorado"
+    },
+    {
+      "text": "Harrison School District Two, Colorado",
+      "href": "https://ballotpedia.org/Harrison_School_District_Two,_Colorado"
+    },
+    {
+      "text": "Haxtun School District RE-2J, Colorado",
+      "href": "https://ballotpedia.org/Haxtun_School_District_RE-2J,_Colorado"
+    },
+    {
+      "text": "Holly School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/Holly_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Huerfano School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Huerfano_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Idalia School District RJ-3, Colorado",
+      "href": "https://ballotpedia.org/Idalia_School_District_RJ-3,_Colorado"
+    },
+    {
+      "text": "Ignacio School District 11-JT, Colorado",
+      "href": "https://ballotpedia.org/Ignacio_School_District_11-JT,_Colorado"
+    },
+    {
+      "text": "Jeffco Public Schools, Colorado",
+      "href": "https://ballotpedia.org/Jeffco_Public_Schools,_Colorado"
+    },
+    {
+      "text": "Karval School District RE-23, Colorado",
+      "href": "https://ballotpedia.org/Karval_School_District_RE-23,_Colorado"
+    },
+    {
+      "text": "La Veta School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/La_Veta_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Lake County School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Lake_County_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Lamar School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Lamar_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "South Routt School District RE-3, Colorado",
+      "href": "https://ballotpedia.org/South_Routt_School_District_RE-3,_Colorado"
+    },
+    {
+      "text": "Las Animas School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Las_Animas_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Lewis-Palmer School District 38, Colorado",
+      "href": "https://ballotpedia.org/Lewis-Palmer_School_District_38,_Colorado"
+    },
+    {
+      "text": "Mancos School District RE-6, Colorado",
+      "href": "https://ballotpedia.org/Mancos_School_District_RE-6,_Colorado"
+    },
+    {
+      "text": "Littleton Public Schools, Colorado",
+      "href": "https://ballotpedia.org/Littleton_Public_Schools,_Colorado"
+    },
+    {
+      "text": "Monte Vista School District C-8, Colorado",
+      "href": "https://ballotpedia.org/Monte_Vista_School_District_C-8,_Colorado"
+    },
+    {
+      "text": "Montrose County School District RE-1J, Colorado",
+      "href": "https://ballotpedia.org/Montrose_County_School_District_RE-1J,_Colorado"
+    },
+    {
+      "text": "North Conejos School District RE-1J, Colorado",
+      "href": "https://ballotpedia.org/North_Conejos_School_District_RE-1J,_Colorado"
+    },
+    {
+      "text": "North Park School District R-1, Colorado",
+      "href": "https://ballotpedia.org/North_Park_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Ouray School District R-1, Colorado",
+      "href": "https://ballotpedia.org/Ouray_School_District_R-1,_Colorado"
+    },
+    {
+      "text": "Park County School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Park_County_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Pawnee School District RE-12, Colorado",
+      "href": "https://ballotpedia.org/Pawnee_School_District_RE-12,_Colorado"
+    },
+    {
+      "text": "Peyton School District 23-JT, Colorado",
+      "href": "https://ballotpedia.org/Peyton_School_District_23-JT,_Colorado"
+    },
+    {
+      "text": "Springfield School District RE-4, Colorado",
+      "href": "https://ballotpedia.org/Springfield_School_District_RE-4,_Colorado"
+    },
+    {
+      "text": "St. Vrain Valley School District, Colorado",
+      "href": "https://ballotpedia.org/St._Vrain_Valley_School_District,_Colorado"
+    },
+    {
+      "text": "Steamboat Springs School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Steamboat_Springs_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Strasburg School District 31J, Colorado",
+      "href": "https://ballotpedia.org/Strasburg_School_District_31J,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Weldon Valley School District RE-20J, Colorado",
+      "href": "https://ballotpedia.org/Weldon_Valley_School_District_RE-20J,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-4, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-4,_Colorado"
+    },
+    {
+      "text": "Woodland Park School District RE-2, Colorado",
+      "href": "https://ballotpedia.org/Woodland_Park_School_District_RE-2,_Colorado"
+    },
+    {
+      "text": "Academy School District 20, Colorado",
+      "href": "https://ballotpedia.org/Academy_School_District_20,_Colorado"
+    },
+    {
+      "text": "Fort Lupton School District RW-8, Colorado",
+      "href": "https://ballotpedia.org/Fort_Lupton_School_District_RW-8,_Colorado"
+    },
+    {
+      "text": "Denver Public Schools, Colorado",
+      "href": "https://ballotpedia.org/Denver_Public_Schools,_Colorado"
+    },
+    {
+      "text": "Aurora Public Schools, Colorado",
+      "href": "https://ballotpedia.org/Aurora_Public_Schools,_Colorado"
+    },
+    {
+      "text": "Revere School District, Colorado",
+      "href": "https://ballotpedia.org/Revere_School_District,_Colorado"
+    },
+    {
+      "text": "Elbert County School District, Colorado",
+      "href": "https://ballotpedia.org/Elbert_County_School_District,_Colorado"
+    },
+    {
+      "text": "Weld County School District RE-3J, Colorado",
+      "href": "https://ballotpedia.org/Weld_County_School_District_RE-3J,_Colorado"
+    },
+    {
+      "text": "Cañon City School District RE-1, Colorado",
+      "href": "https://ballotpedia.org/Ca%C3%B1on_City_School_District_RE-1,_Colorado"
+    },
+    {
+      "text": "Moffat Consolidated School District 2, Colorado",
+      "href": "https://ballotpedia.org/Moffat_Consolidated_School_District_2,_Colorado"
+    },
+    {
+      "text": "Estes Park School District R-3, Colorado",
+      "href": "https://ballotpedia.org/Estes_Park_School_District_R-3,_Colorado"
+    },
+    {
+      "text": "Morgan County School District Re-3, Colorado",
+      "href": "https://ballotpedia.org/Morgan_County_School_District_Re-3,_Colorado"
+    },
+    {
+      "text": "Upper Rio Grande School District C-7, Colorado",
+      "href": "https://ballotpedia.org/Upper_Rio_Grande_School_District_C-7,_Colorado"
+    },
+    {
+      "text": "Plateau Valley School District 50, Colorado",
+      "href": "https://ballotpedia.org/Plateau_Valley_School_District_50,_Colorado"
+    },
+    {
+      "text": "Pueblo County School District 70, Colorado",
+      "href": "https://ballotpedia.org/Pueblo_County_School_District_70,_Colorado"
+    },
+    {
+      "text": "Pueblo School District 60, Colorado",
+      "href": "https://ballotpedia.org/Pueblo_School_District_60,_Colorado"
+    }
+  ],
+  "count": 180
+}

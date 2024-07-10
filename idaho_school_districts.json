@@ -1,0 +1,465 @@
+{
+  "links": [
+    {
+      "text": "Caldwell School District, Idaho",
+      "href": "https://ballotpedia.org/Caldwell_School_District,_Idaho"
+    },
+    {
+      "text": "Oneida County School District, Idaho",
+      "href": "https://ballotpedia.org/Oneida_County_School_District,_Idaho"
+    },
+    {
+      "text": "Moscow School District, Idaho",
+      "href": "https://ballotpedia.org/Moscow_School_District,_Idaho"
+    },
+    {
+      "text": "Wallace School District, Idaho",
+      "href": "https://ballotpedia.org/Wallace_School_District,_Idaho"
+    },
+    {
+      "text": "Emmett Independent School District, Idaho",
+      "href": "https://ballotpedia.org/Emmett_Independent_School_District,_Idaho"
+    },
+    {
+      "text": "Plummer-Worley Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Plummer-Worley_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Buhl Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Buhl_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Jerome Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Jerome_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Midvale School District, Idaho",
+      "href": "https://ballotpedia.org/Midvale_School_District,_Idaho"
+    },
+    {
+      "text": "Filer School District, Idaho",
+      "href": "https://ballotpedia.org/Filer_School_District,_Idaho"
+    },
+    {
+      "text": "Mullan School District, Idaho",
+      "href": "https://ballotpedia.org/Mullan_School_District,_Idaho"
+    },
+    {
+      "text": "Weiser School District, Idaho",
+      "href": "https://ballotpedia.org/Weiser_School_District,_Idaho"
+    },
+    {
+      "text": "Aberdeen School District, Idaho",
+      "href": "https://ballotpedia.org/Aberdeen_School_District,_Idaho"
+    },
+    {
+      "text": "American Falls Joint School District, Idaho",
+      "href": "https://ballotpedia.org/American_Falls_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Bear Lake County School District, Idaho",
+      "href": "https://ballotpedia.org/Bear_Lake_County_School_District,_Idaho"
+    },
+    {
+      "text": "Blackfoot School District, Idaho",
+      "href": "https://ballotpedia.org/Blackfoot_School_District,_Idaho"
+    },
+    {
+      "text": "Blaine County School District, Idaho",
+      "href": "https://ballotpedia.org/Blaine_County_School_District,_Idaho"
+    },
+    {
+      "text": "Bliss Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Bliss_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Boise School District, Idaho",
+      "href": "https://ballotpedia.org/Boise_School_District,_Idaho"
+    },
+    {
+      "text": "Bonneville Joint School District No. 93, Idaho",
+      "href": "https://ballotpedia.org/Bonneville_Joint_School_District_No._93,_Idaho"
+    },
+    {
+      "text": "Boundary County School District, Idaho",
+      "href": "https://ballotpedia.org/Boundary_County_School_District,_Idaho"
+    },
+    {
+      "text": "Butte County Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Butte_County_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Cascade School District, Idaho",
+      "href": "https://ballotpedia.org/Cascade_School_District,_Idaho"
+    },
+    {
+      "text": "Cassia County Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Cassia_County_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Challis Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Challis_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Coeur d'Alene Public Schools, Idaho",
+      "href": "https://ballotpedia.org/Coeur_d%27Alene_Public_Schools,_Idaho"
+    },
+    {
+      "text": "Cottonwood Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Cottonwood_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Culdesac Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Culdesac_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Dietrich School District, Idaho",
+      "href": "https://ballotpedia.org/Dietrich_School_District,_Idaho"
+    },
+    {
+      "text": "Firth School District, Idaho",
+      "href": "https://ballotpedia.org/Firth_School_District,_Idaho"
+    },
+    {
+      "text": "Fremont County Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Fremont_County_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Fruitland School District, Idaho",
+      "href": "https://ballotpedia.org/Fruitland_School_District,_Idaho"
+    },
+    {
+      "text": "Garden Valley School District, Idaho",
+      "href": "https://ballotpedia.org/Garden_Valley_School_District,_Idaho"
+    },
+    {
+      "text": "Genesee Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Genesee_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Gooding Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Gooding_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Grace Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Grace_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Salmon School District, Idaho",
+      "href": "https://ballotpedia.org/Salmon_School_District,_Idaho"
+    },
+    {
+      "text": "Highland Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Highland_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Homedale Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Homedale_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Jefferson County Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Jefferson_County_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Kamiah Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Kamiah_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Kellogg Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Kellogg_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Kimberly School District, Idaho",
+      "href": "https://ballotpedia.org/Kimberly_School_District,_Idaho"
+    },
+    {
+      "text": "Kootenai Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Kootenai_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Kuna Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Kuna_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Lake Pend Oreille School District, Idaho",
+      "href": "https://ballotpedia.org/Lake_Pend_Oreille_School_District,_Idaho"
+    },
+    {
+      "text": "Lakeland Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Lakeland_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Lewiston Independent School District, Idaho",
+      "href": "https://ballotpedia.org/Lewiston_Independent_School_District,_Idaho"
+    },
+    {
+      "text": "Madison School District, Idaho",
+      "href": "https://ballotpedia.org/Madison_School_District,_Idaho"
+    },
+    {
+      "text": "Marsh Valley Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Marsh_Valley_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "McCall-Donnelly Joint School District, Idaho",
+      "href": "https://ballotpedia.org/McCall-Donnelly_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Melba Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Melba_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Middleton School District, Idaho",
+      "href": "https://ballotpedia.org/Middleton_School_District,_Idaho"
+    },
+    {
+      "text": "Minidoka County Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Minidoka_County_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Mountain Home School District, Idaho",
+      "href": "https://ballotpedia.org/Mountain_Home_School_District,_Idaho"
+    },
+    {
+      "text": "New Plymouth School District, Idaho",
+      "href": "https://ballotpedia.org/New_Plymouth_School_District,_Idaho"
+    },
+    {
+      "text": "North Gem School District, Idaho",
+      "href": "https://ballotpedia.org/North_Gem_School_District,_Idaho"
+    },
+    {
+      "text": "Orofino Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Orofino_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Parma School District, Idaho",
+      "href": "https://ballotpedia.org/Parma_School_District,_Idaho"
+    },
+    {
+      "text": "Pocatello-Chubbuck School District No. 25, Idaho",
+      "href": "https://ballotpedia.org/Pocatello-Chubbuck_School_District_No._25,_Idaho"
+    },
+    {
+      "text": "Post Falls School District, Idaho",
+      "href": "https://ballotpedia.org/Post_Falls_School_District,_Idaho"
+    },
+    {
+      "text": "Potlatch School District, Idaho",
+      "href": "https://ballotpedia.org/Potlatch_School_District,_Idaho"
+    },
+    {
+      "text": "Preston Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Preston_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Ririe Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Ririe_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Rockland School District, Idaho",
+      "href": "https://ballotpedia.org/Rockland_School_District,_Idaho"
+    },
+    {
+      "text": "Shelley Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Shelley_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Shoshone Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Shoshone_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Snake River School District, Idaho",
+      "href": "https://ballotpedia.org/Snake_River_School_District,_Idaho"
+    },
+    {
+      "text": "Soda Springs Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Soda_Springs_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "South Lemhi School District, Idaho",
+      "href": "https://ballotpedia.org/South_Lemhi_School_District,_Idaho"
+    },
+    {
+      "text": "St. Maries Joint School District, Idaho",
+      "href": "https://ballotpedia.org/St._Maries_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Sugar-Salem Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Sugar-Salem_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Teton County School District, Idaho",
+      "href": "https://ballotpedia.org/Teton_County_School_District,_Idaho"
+    },
+    {
+      "text": "Troy School District, Idaho",
+      "href": "https://ballotpedia.org/Troy_School_District,_Idaho"
+    },
+    {
+      "text": "Twin Falls School District, Idaho",
+      "href": "https://ballotpedia.org/Twin_Falls_School_District,_Idaho"
+    },
+    {
+      "text": "Valley School District, Idaho",
+      "href": "https://ballotpedia.org/Valley_School_District,_Idaho"
+    },
+    {
+      "text": "Vallivue School District, Idaho",
+      "href": "https://ballotpedia.org/Vallivue_School_District,_Idaho"
+    },
+    {
+      "text": "Wendell School District, Idaho",
+      "href": "https://ballotpedia.org/Wendell_School_District,_Idaho"
+    },
+    {
+      "text": "West Jefferson School District, Idaho",
+      "href": "https://ballotpedia.org/West_Jefferson_School_District,_Idaho"
+    },
+    {
+      "text": "West Side Joint School District, Idaho",
+      "href": "https://ballotpedia.org/West_Side_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Wilder School District, Idaho",
+      "href": "https://ballotpedia.org/Wilder_School_District,_Idaho"
+    },
+    {
+      "text": "Whitepine Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Whitepine_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "West Ada School District, Idaho",
+      "href": "https://ballotpedia.org/West_Ada_School_District,_Idaho"
+    },
+    {
+      "text": "Glenns Ferry Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Glenns_Ferry_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Arbon Elementary School District, Idaho",
+      "href": "https://ballotpedia.org/Arbon_Elementary_School_District,_Idaho"
+    },
+    {
+      "text": "Basin School District, Idaho",
+      "href": "https://ballotpedia.org/Basin_School_District,_Idaho"
+    },
+    {
+      "text": "Avery School District, Idaho",
+      "href": "https://ballotpedia.org/Avery_School_District,_Idaho"
+    },
+    {
+      "text": "Cambridge Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Cambridge_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Camas County School District, Idaho",
+      "href": "https://ballotpedia.org/Camas_County_School_District,_Idaho"
+    },
+    {
+      "text": "Castleford School District, Idaho",
+      "href": "https://ballotpedia.org/Castleford_School_District,_Idaho"
+    },
+    {
+      "text": "Council School District, Idaho",
+      "href": "https://ballotpedia.org/Council_School_District,_Idaho"
+    },
+    {
+      "text": "Clark County School District, Idaho",
+      "href": "https://ballotpedia.org/Clark_County_School_District,_Idaho"
+    },
+    {
+      "text": "Bruneau-Grand View Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Bruneau-Grand_View_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Hagerman Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Hagerman_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Kendrick Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Kendrick_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Lapwai School District, Idaho",
+      "href": "https://ballotpedia.org/Lapwai_School_District,_Idaho"
+    },
+    {
+      "text": "Hansen School District, Idaho",
+      "href": "https://ballotpedia.org/Hansen_School_District,_Idaho"
+    },
+    {
+      "text": "Mackay Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Mackay_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Mountain View School District, Idaho",
+      "href": "https://ballotpedia.org/Mountain_View_School_District,_Idaho"
+    },
+    {
+      "text": "Meadows Valley School District, Idaho",
+      "href": "https://ballotpedia.org/Meadows_Valley_School_District,_Idaho"
+    },
+    {
+      "text": "Marsing Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Marsing_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Murtaugh Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Murtaugh_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Nezperce Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Nezperce_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Prairie Elementary School District, Idaho",
+      "href": "https://ballotpedia.org/Prairie_Elementary_School_District,_Idaho"
+    },
+    {
+      "text": "Richfield School District, Idaho",
+      "href": "https://ballotpedia.org/Richfield_School_District,_Idaho"
+    },
+    {
+      "text": "Payette Joint School District, Idaho",
+      "href": "https://ballotpedia.org/Payette_Joint_School_District,_Idaho"
+    },
+    {
+      "text": "Pleasant Valley Elementary School District, Idaho",
+      "href": "https://ballotpedia.org/Pleasant_Valley_Elementary_School_District,_Idaho"
+    },
+    {
+      "text": "Notus School District, Idaho",
+      "href": "https://ballotpedia.org/Notus_School_District,_Idaho"
+    },
+    {
+      "text": "Salmon River School District, Idaho",
+      "href": "https://ballotpedia.org/Salmon_River_School_District,_Idaho"
+    },
+    {
+      "text": "Swan Valley Elementary School District, Idaho",
+      "href": "https://ballotpedia.org/Swan_Valley_Elementary_School_District,_Idaho"
+    },
+    {
+      "text": "Three Creek Joint Elementary School District, Idaho",
+      "href": "https://ballotpedia.org/Three_Creek_Joint_Elementary_School_District,_Idaho"
+    },
+    {
+      "text": "Horseshoe Bend School District, Idaho",
+      "href": "https://ballotpedia.org/Horseshoe_Bend_School_District,_Idaho"
+    },
+    {
+      "text": "Idaho Falls School District 91, Idaho",
+      "href": "https://ballotpedia.org/Idaho_Falls_School_District_91,_Idaho"
+    },
+    {
+      "text": "Nampa School District, Idaho",
+      "href": "https://ballotpedia.org/Nampa_School_District,_Idaho"
+    },
+    {
+      "text": "West Bonner County School District, Idaho",
+      "href": "https://ballotpedia.org/West_Bonner_County_School_District,_Idaho"
+    }
+  ],
+  "count": 115
+}

@@ -1,0 +1,693 @@
+{
+  "links": [
+    {
+      "text": "Hickman County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hickman_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Calloway County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Calloway_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Henderson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Henderson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Clay County School District, Kentucky",
+      "href": "https://ballotpedia.org/Clay_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Greenup County School District, Kentucky",
+      "href": "https://ballotpedia.org/Greenup_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Bowling Green Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bowling_Green_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Crittenden County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Crittenden_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Garrard County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Garrard_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Knox County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Knox_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Murray Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Murray_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Johnson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Johnson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Mason County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Mason_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Anderson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Anderson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Anchorage Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Anchorage_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Boyle County School District, Kentucky",
+      "href": "https://ballotpedia.org/Boyle_County_School_District,_Kentucky"
+    },
+    {
+      "text": "LaRue County Schools, Kentucky",
+      "href": "https://ballotpedia.org/LaRue_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bellevue Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bellevue_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Covington Independent Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Covington_Independent_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Carter County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Carter_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Lyon County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Lyon_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Hopkins County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hopkins_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Glasgow Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Glasgow_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Fayette County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Fayette_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Fulton County School District, Kentucky",
+      "href": "https://ballotpedia.org/Fulton_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Harlan County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Harlan_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Jefferson County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Jefferson_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Fulton Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Fulton_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Ashland Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Ashland_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Daviess County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Daviess_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Harlan Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Harlan_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Jackson County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Jackson_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Grant County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Grant_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Jenkins Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Jenkins_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "East Bernstadt Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/East_Bernstadt_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Monroe County School District, Kentucky",
+      "href": "https://ballotpedia.org/Monroe_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Gallatin County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Gallatin_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Augusta Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Augusta_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Barren County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Barren_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Lawrence County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Lawrence_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Hardin County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hardin_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Caldwell County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Caldwell_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Campbell County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Campbell_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Ludlow Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Ludlow_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Adair County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Adair_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Metcalfe County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Metcalfe_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bracken County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bracken_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Campbellsville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Campbellsville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Carlisle County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Carlisle_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Knott County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Knott_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Carroll County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Carroll_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Allen County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Allen_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bath County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bath_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Montgomery County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Montgomery_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Casey County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Casey_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Caverna Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Caverna_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Christian County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Christian_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Dawson Springs Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Dawson_Springs_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Cloverport Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Cloverport_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Elliott County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Elliott_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Clark County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Clark_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Erlanger-Elsmere Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Erlanger-Elsmere_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Clinton County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Clinton_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Mayfield Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Mayfield_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Corbin Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Corbin_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Hancock County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hancock_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Henry County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Henry_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Livingston County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Livingston_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Cumberland County School District, Kentucky",
+      "href": "https://ballotpedia.org/Cumberland_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Laurel County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Laurel_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Logan County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Logan_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Hazard Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hazard_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Beechwood Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Beechwood_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Butler County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Butler_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Middlesboro Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Middlesboro_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Graves County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Graves_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Danville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Danville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Dayton Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Dayton_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Edmonson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Edmonson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Monticello Independent School, Kentucky",
+      "href": "https://ballotpedia.org/Monticello_Independent_School,_Kentucky"
+    },
+    {
+      "text": "Elizabethtown Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Elizabethtown_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Eminence Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Eminence_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Jackson Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Jackson_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Estill County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Estill_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Breathitt County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Breathitt_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Fairview Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Fairview_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Jessamine County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Jessamine_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Fleming County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Fleming_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Floyd County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Floyd_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Fort Thomas Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Fort_Thomas_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Frankfort Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Frankfort_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Franklin County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Franklin_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Grayson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Grayson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Green County School District, Kentucky",
+      "href": "https://ballotpedia.org/Green_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Harrison County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Harrison_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Hart County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Hart_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Kenton County School District, Kentucky",
+      "href": "https://ballotpedia.org/Kenton_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Lee County School District, Kentucky",
+      "href": "https://ballotpedia.org/Lee_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Letcher County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Letcher_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Leslie County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Leslie_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Lewis County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Lewis_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Lincoln County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Lincoln_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Madison County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Madison_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Magoffin County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Magoffin_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Marion County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Marion_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Marshall County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Marshall_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Martin County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Martin_County_Schools,_Kentucky"
+    },
+    {
+      "text": "McCracken County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/McCracken_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "McCreary County School District, Kentucky",
+      "href": "https://ballotpedia.org/McCreary_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Meade County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Meade_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Menifee County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Menifee_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Mercer County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Mercer_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Muhlenberg County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Muhlenberg_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Morgan County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Morgan_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Ballard County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Ballard_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Barbourville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Barbourville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Bell County School District, Kentucky",
+      "href": "https://ballotpedia.org/Bell_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Berea Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Berea_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Boone County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Boone_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bourbon County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bourbon_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Boyd County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Boyd_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Breckinridge County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Breckinridge_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bullitt County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bullitt_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Burgin Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Burgin_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Warren County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Warren_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Oldham County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Oldham_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Bardstown City Schools, Kentucky",
+      "href": "https://ballotpedia.org/Bardstown_City_Schools,_Kentucky"
+    },
+    {
+      "text": "Ohio County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Ohio_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Owensboro Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Owensboro_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Owen County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Owen_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Owsley County School District, Kentucky",
+      "href": "https://ballotpedia.org/Owsley_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Nelson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Nelson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Newport Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Newport_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Nicholas County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Nicholas_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Paducah Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Paducah_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Raceland-Worthington Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Raceland-Worthington_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Pikeville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Pikeville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Pulaski County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Pulaski_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Paris Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Paris_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Paintsville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Paintsville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Perry County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Perry_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Powell County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Powell_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Russellville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Russellville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Rockcastle County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Rockcastle_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Russell Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Russell_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Russell County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Russell_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Science Hill Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Science_Hill_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Rowan County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Rowan_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Pineville Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Pineville_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Scott County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Scott_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Shelby County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Shelby_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Simpson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Simpson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Spencer County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Spencer_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Southgate Independent School District, Kentucky",
+      "href": "https://ballotpedia.org/Southgate_Independent_School_District,_Kentucky"
+    },
+    {
+      "text": "Somerset Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Somerset_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Trimble County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Trimble_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Union County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Union_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Walton-Verona Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Walton-Verona_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Trigg County Public Schools, Kentucky",
+      "href": "https://ballotpedia.org/Trigg_County_Public_Schools,_Kentucky"
+    },
+    {
+      "text": "Washington County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Washington_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Webster County School District, Kentucky",
+      "href": "https://ballotpedia.org/Webster_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Williamsburg Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Williamsburg_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Whitley County School District, Kentucky",
+      "href": "https://ballotpedia.org/Whitley_County_School_District,_Kentucky"
+    },
+    {
+      "text": "Williamstown Independent Schools, Kentucky",
+      "href": "https://ballotpedia.org/Williamstown_Independent_Schools,_Kentucky"
+    },
+    {
+      "text": "Wolfe County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Wolfe_County_Schools,_Kentucky"
+    },
+    {
+      "text": "McLean County Schools, Kentucky",
+      "href": "https://ballotpedia.org/McLean_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Pendleton County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Pendleton_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Pike County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Pike_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Robertson County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Robertson_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Taylor County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Taylor_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Todd County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Todd_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Wayne County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Wayne_County_Schools,_Kentucky"
+    },
+    {
+      "text": "Woodford County Schools, Kentucky",
+      "href": "https://ballotpedia.org/Woodford_County_Schools,_Kentucky"
+    }
+  ],
+  "count": 172
+}

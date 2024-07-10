@@ -1,0 +1,665 @@
+{
+  "links": [
+    {
+      "text": "Scotland School District, Connecticut",
+      "href": "https://ballotpedia.org/Scotland_School_District,_Connecticut"
+    },
+    {
+      "text": "Kent School District, Connecticut",
+      "href": "https://ballotpedia.org/Kent_School_District,_Connecticut"
+    },
+    {
+      "text": "New Fairfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_Fairfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Windham Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Windham_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Farmington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Farmington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Brookfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Brookfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Tolland Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Tolland_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Colebrook Consolidated School District, Connecticut",
+      "href": "https://ballotpedia.org/Colebrook_Consolidated_School_District,_Connecticut"
+    },
+    {
+      "text": "Salisbury School District, Connecticut",
+      "href": "https://ballotpedia.org/Salisbury_School_District,_Connecticut"
+    },
+    {
+      "text": "Watertown Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Watertown_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Thompson Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Thompson_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "New Canaan Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_Canaan_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bloomfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bloomfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Derby Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Derby_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Granby Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Granby_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 16, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_16,_Connecticut"
+    },
+    {
+      "text": "Cromwell Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Cromwell_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Torrington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Torrington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Voluntown School District, Connecticut",
+      "href": "https://ballotpedia.org/Voluntown_School_District,_Connecticut"
+    },
+    {
+      "text": "Regional School District 5, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_5,_Connecticut"
+    },
+    {
+      "text": "Canaan Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Canaan_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Weston Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Weston_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bridgeport Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bridgeport_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 7, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_7,_Connecticut"
+    },
+    {
+      "text": "Rocky Hill Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Rocky_Hill_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Windsor Locks Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Windsor_Locks_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Woodstock Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Woodstock_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "West Hartford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/West_Hartford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "North Stonington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/North_Stonington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Westbrook Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Westbrook_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Hartland School District, Connecticut",
+      "href": "https://ballotpedia.org/Hartland_School_District,_Connecticut"
+    },
+    {
+      "text": "Hampton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Hampton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Consolidated School District of New Britain, Connecticut",
+      "href": "https://ballotpedia.org/Consolidated_School_District_of_New_Britain,_Connecticut"
+    },
+    {
+      "text": "Colchester Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Colchester_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Groton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Groton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Danbury Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Danbury_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Hebron School District, Connecticut",
+      "href": "https://ballotpedia.org/Hebron_School_District,_Connecticut"
+    },
+    {
+      "text": "Granby Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Granby_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Hartford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Hartford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Shelton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Shelton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Chaplin School District, Connecticut",
+      "href": "https://ballotpedia.org/Chaplin_School_District,_Connecticut"
+    },
+    {
+      "text": "Ansonia Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Ansonia_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Newtown Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Newtown_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Monroe Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Monroe_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Windsor Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Windsor_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Ridgefield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Ridgefield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Trumbull Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Trumbull_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Darien Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Darien_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Canterbury Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Canterbury_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Portland Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Portland_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "New Hartford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_Hartford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Hamden Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Hamden_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Norwalk Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Norwalk_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Canton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Canton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Seymour Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Seymour_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Preston Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Preston_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Vernon Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Vernon_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 13, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_13,_Connecticut"
+    },
+    {
+      "text": "Cornwall Consolidated School District, Connecticut",
+      "href": "https://ballotpedia.org/Cornwall_Consolidated_School_District,_Connecticut"
+    },
+    {
+      "text": "Greenwich Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Greenwich_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Avon Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Avon_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Sharon School District, Connecticut",
+      "href": "https://ballotpedia.org/Sharon_School_District,_Connecticut"
+    },
+    {
+      "text": "Eastford School District, Connecticut",
+      "href": "https://ballotpedia.org/Eastford_School_District,_Connecticut"
+    },
+    {
+      "text": "Cheshire Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Cheshire_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Pomfret Community School District, Connecticut",
+      "href": "https://ballotpedia.org/Pomfret_Community_School_District,_Connecticut"
+    },
+    {
+      "text": "Plainfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Plainfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Hartford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Hartford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Killingly Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Killingly_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Ellington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Ellington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Lisbon School District, Connecticut",
+      "href": "https://ballotpedia.org/Lisbon_School_District,_Connecticut"
+    },
+    {
+      "text": "Plainville School District, Connecticut",
+      "href": "https://ballotpedia.org/Plainville_School_District,_Connecticut"
+    },
+    {
+      "text": "North Canaan School District, Connecticut",
+      "href": "https://ballotpedia.org/North_Canaan_School_District,_Connecticut"
+    },
+    {
+      "text": "Plymouth Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Plymouth_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "West Haven Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/West_Haven_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Windsor Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Windsor_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Newington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Newington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 9, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_9,_Connecticut"
+    },
+    {
+      "text": "East Haven Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Haven_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Essex Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Essex_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Woodbridge Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Woodbridge_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Winchester Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Winchester_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Chester Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Chester_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Sherman School District, Connecticut",
+      "href": "https://ballotpedia.org/Sherman_School_District,_Connecticut"
+    },
+    {
+      "text": "Stamford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Stamford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Union School District, Connecticut",
+      "href": "https://ballotpedia.org/Union_School_District,_Connecticut"
+    },
+    {
+      "text": "Regional School District 8, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_8,_Connecticut"
+    },
+    {
+      "text": "Lebanon Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Lebanon_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Stratford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Stratford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Salem School District, Connecticut",
+      "href": "https://ballotpedia.org/Salem_School_District,_Connecticut"
+    },
+    {
+      "text": "Regional School District 12, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_12,_Connecticut"
+    },
+    {
+      "text": "Simsbury Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Simsbury_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Clinton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Clinton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 19, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_19,_Connecticut"
+    },
+    {
+      "text": "Wallingford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Wallingford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bethel Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bethel_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Somers Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Somers_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Milford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Milford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Norfolk Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Norfolk_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Southington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Southington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Lyme Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Lyme_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Ledyard Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Ledyard_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Litchfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Litchfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "New London Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_London_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Glastonbury Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Glastonbury_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Sterling School District, Connecticut",
+      "href": "https://ballotpedia.org/Sterling_School_District,_Connecticut"
+    },
+    {
+      "text": "Fairfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Fairfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bristol Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bristol_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Deep River Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Deep_River_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Stafford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Stafford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bolton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bolton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Montville Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Montville_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Stonington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Stonington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Andover School District, Connecticut",
+      "href": "https://ballotpedia.org/Andover_School_District,_Connecticut"
+    },
+    {
+      "text": "Waterbury Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Waterbury_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Waterford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Waterford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Haddam Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Haddam_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Westport Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Westport_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Franklin School District, Connecticut",
+      "href": "https://ballotpedia.org/Franklin_School_District,_Connecticut"
+    },
+    {
+      "text": "Easton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Easton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Brooklyn Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Brooklyn_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Suffield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Suffield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Columbia Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Columbia_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Wethersfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Wethersfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Ashford School District, Connecticut",
+      "href": "https://ballotpedia.org/Ashford_School_District,_Connecticut"
+    },
+    {
+      "text": "Barkhamsted School District, Connecticut",
+      "href": "https://ballotpedia.org/Barkhamsted_School_District,_Connecticut"
+    },
+    {
+      "text": "Berlin Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Berlin_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bethany Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bethany_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Branford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Branford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Coventry Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Coventry_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "East Hampton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/East_Hampton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Griswold Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Griswold_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Guilford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Guilford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Madison Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Madison_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Manchester Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Manchester_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Willington Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Willington_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Mansfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Mansfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Marlborough Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Marlborough_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Meriden Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Meriden_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Middletown Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Middletown_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Naugatuck Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Naugatuck_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "New Milford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_Milford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "North Branford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/North_Branford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "North Haven Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/North_Haven_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Norwich Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Norwich_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Old Saybrook Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Old_Saybrook_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Orange Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Orange_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Oxford Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Oxford_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Putnam Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Putnam_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Redding Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Redding_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 1, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_1,_Connecticut"
+    },
+    {
+      "text": "Regional School District 11, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_11,_Connecticut"
+    },
+    {
+      "text": "Regional School District 14, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_14,_Connecticut"
+    },
+    {
+      "text": "Regional School District 17, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_17,_Connecticut"
+    },
+    {
+      "text": "Regional School District 18, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_18,_Connecticut"
+    },
+    {
+      "text": "Regional School District 4, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_4,_Connecticut"
+    },
+    {
+      "text": "Regional School District 6, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_6,_Connecticut"
+    },
+    {
+      "text": "Thomaston Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Thomaston_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Wilton Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Wilton_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "New Haven Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/New_Haven_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Wolcott Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Wolcott_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Sprague Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Sprague_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Enfield Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Enfield_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Bozrah Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/Bozrah_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "South Windsor Public Schools, Connecticut",
+      "href": "https://ballotpedia.org/South_Windsor_Public_Schools,_Connecticut"
+    },
+    {
+      "text": "Regional School District 15, Connecticut",
+      "href": "https://ballotpedia.org/Regional_School_District_15,_Connecticut"
+    }
+  ],
+  "count": 165
+}

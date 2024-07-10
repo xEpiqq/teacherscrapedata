@@ -1,0 +1,937 @@
+{
+  "links": [
+    {
+      "text": "Agua Fria Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Agua_Fria_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Aguila Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Aguila_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Ajo Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Ajo_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Alhambra Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Alhambra_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Alpine Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Alpine_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Altar Valley Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Altar_Valley_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Amphitheater Public Schools, Arizona",
+      "href": "https://ballotpedia.org/Amphitheater_Public_Schools,_Arizona"
+    },
+    {
+      "text": "Antelope Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Antelope_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Apache Junction Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Apache_Junction_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Arlington Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Arlington_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Ash Creek Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Ash_Creek_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Ash Fork Joint Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Ash_Fork_Joint_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Avondale Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Avondale_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Bagdad Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Bagdad_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Balsz Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Balsz_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Beaver Creek Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Beaver_Creek_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Benson Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Benson_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Bicentennial Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Bicentennial_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Bisbee Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Bisbee_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Blue Ridge Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Blue_Ridge_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Bonita Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Bonita_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Bouse Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Bouse_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Bowie Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Bowie_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Buckeye Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Buckeye_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Buckeye Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Buckeye_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Bullhead City Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Bullhead_City_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Camp Verde Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Camp_Verde_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Canon Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Canon_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Cartwright Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Cartwright_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Casa Grande Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Casa_Grande_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Casa Grande Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Casa_Grande_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Catalina Foothills Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Catalina_Foothills_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Cave Creek Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Cave_Creek_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Cedar Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Cedar_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Central Arizona Valley Institute of Technology, Arizona",
+      "href": "https://ballotpedia.org/Central_Arizona_Valley_Institute_of_Technology,_Arizona"
+    },
+    {
+      "text": "Chevelon Butte School District, Arizona",
+      "href": "https://ballotpedia.org/Chevelon_Butte_School_District,_Arizona"
+    },
+    {
+      "text": "Chinle Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Chinle_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Cobre Valley Institute of Technology, Arizona",
+      "href": "https://ballotpedia.org/Cobre_Valley_Institute_of_Technology,_Arizona"
+    },
+    {
+      "text": "Clarkdale-Jerome Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Clarkdale-Jerome_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Chino Valley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Chino_Valley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Chandler Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Chandler_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Cochise Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Cochise_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Coconino Association for Vocation Industry and Technology, Arizona",
+      "href": "https://ballotpedia.org/Coconino_Association_for_Vocation_Industry_and_Technology,_Arizona"
+    },
+    {
+      "text": "Colorado City Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Colorado_City_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Colorado River Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Colorado_River_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Cottonwood-Oak Creek Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Cottonwood-Oak_Creek_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Coolidge Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Coolidge_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Continental Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Continental_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Concho Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Concho_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Congress Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Congress_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Crane Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Crane_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Creighton Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Creighton_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Crown King Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Crown_King_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Double Adobe Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Double_Adobe_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Deer Valley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Deer_Valley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Duncan Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Duncan_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Dysart Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Dysart_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "East Valley Institute of Technology, Arizona",
+      "href": "https://ballotpedia.org/East_Valley_Institute_of_Technology,_Arizona"
+    },
+    {
+      "text": "Eagle Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Eagle_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Douglas Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Douglas_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Elfrida Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Elfrida_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Eloy Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Eloy_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Esperanza Academy Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Esperanza_Academy_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Flagstaff Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Flagstaff_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Florence Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Florence_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Flowing Wells Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Flowing_Wells_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Fort Thomas Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Fort_Thomas_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Fountain Hills Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Fountain_Hills_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Fowler Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Fowler_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Fredonia-Moccasin Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Fredonia-Moccasin_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Gadsden Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Gadsden_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Gila Bend Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Gila_Bend_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Ganado Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Ganado_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Globe Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Globe_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Gila Institute for Technology, Arizona",
+      "href": "https://ballotpedia.org/Gila_Institute_for_Technology,_Arizona"
+    },
+    {
+      "text": "Glendale Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Glendale_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Glendale Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Glendale_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Empire School District, Arizona",
+      "href": "https://ballotpedia.org/Empire_School_District,_Arizona"
+    },
+    {
+      "text": "Gilbert Public Schools, Arizona",
+      "href": "https://ballotpedia.org/Gilbert_Public_Schools,_Arizona"
+    },
+    {
+      "text": "Grand Canyon Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Grand_Canyon_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Hackberry School District, Arizona",
+      "href": "https://ballotpedia.org/Hackberry_School_District,_Arizona"
+    },
+    {
+      "text": "Hayden-Winkelman Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Hayden-Winkelman_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Heber-Overgaard Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Heber-Overgaard_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Holbrook Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Holbrook_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Hillside Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Hillside_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Higley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Higley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Humboldt Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Humboldt_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Hyder Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Hyder_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Isaac Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Isaac_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Joseph City Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Joseph_City_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Kayenta Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Kayenta_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Kingman Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Kingman_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Kirkland Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Kirkland_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Klondyke Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Klondyke_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Kyrene Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Kyrene_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Lake Havasu Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Lake_Havasu_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Laveen Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Laveen_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Liberty Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Liberty_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Litchfield Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Litchfield_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Littlefield Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Littlefield_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Littleton Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Littleton_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Madison Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Madison_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Maine Consolidated School District, Arizona",
+      "href": "https://ballotpedia.org/Maine_Consolidated_School_District,_Arizona"
+    },
+    {
+      "text": "Mammoth-San Manuel Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Mammoth-San_Manuel_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Marana Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Marana_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Maricopa County Regional School District, Arizona",
+      "href": "https://ballotpedia.org/Maricopa_County_Regional_School_District,_Arizona"
+    },
+    {
+      "text": "Maricopa Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Maricopa_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Mary C. O'Brien Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Mary_C._O%27Brien_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Mayer Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Mayer_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "McNary Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/McNary_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "McNeal Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/McNeal_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Miami Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Miami_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Mingus Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Mingus_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Mesa Public Schools, Arizona",
+      "href": "https://ballotpedia.org/Mesa_Public_Schools,_Arizona"
+    },
+    {
+      "text": "Mobile Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Mobile_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Mohave Valley Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Mohave_Valley_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Mohawk Valley Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Mohawk_Valley_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Morenci Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Morenci_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Morristown Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Morristown_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Mountain Institute Joint Technology Education District, Arizona",
+      "href": "https://ballotpedia.org/Mountain_Institute_Joint_Technology_Education_District,_Arizona"
+    },
+    {
+      "text": "Murphy Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Murphy_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Nogales Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Nogales_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Naco Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Naco_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Nadaburg Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Nadaburg_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Osborn Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Osborn_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Northeast Arizona Technological Institute of Vocational Education, Arizona",
+      "href": "https://ballotpedia.org/Northeast_Arizona_Technological_Institute_of_Vocational_Education,_Arizona"
+    },
+    {
+      "text": "Northern Arizona Vocational Institute of Technology, Arizona",
+      "href": "https://ballotpedia.org/Northern_Arizona_Vocational_Institute_of_Technology,_Arizona"
+    },
+    {
+      "text": "Oracle Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Oracle_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Page Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Page_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Palo Verde Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Palo_Verde_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Paloma Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Paloma_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Palominas Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Palominas_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Parker Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Parker_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Patagonia Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Patagonia_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Paradise Valley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Paradise_Valley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Pearce Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Pearce_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Pendergast Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Pendergast_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Patagonia Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Patagonia_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Payson Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Payson_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Peach Springs Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Peach_Springs_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Pima County Joint Technological Education District, Arizona",
+      "href": "https://ballotpedia.org/Pima_County_Joint_Technological_Education_District,_Arizona"
+    },
+    {
+      "text": "Picacho Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Picacho_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Phoenix Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Phoenix_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Peoria Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Peoria_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Phoenix Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Phoenix_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Pima Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Pima_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Pine Strawberry Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Pine_Strawberry_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Pomerene Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Pomerene_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Red Mesa Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Red_Mesa_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Ray Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Ray_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Queen Creek Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Queen_Creek_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Quartzsite Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Quartzsite_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Prescott Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Prescott_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Red Rock Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Red_Rock_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Redington School District, Arizona",
+      "href": "https://ballotpedia.org/Redington_School_District,_Arizona"
+    },
+    {
+      "text": "Riverside Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Riverside_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Roosevelt Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Roosevelt_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Round Valley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Round_Valley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Sacaton Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Sacaton_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Saddle Mountain Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Saddle_Mountain_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Safford Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Safford_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Sahuarita Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Sahuarita_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "San Carlos Unified School District, Arizona",
+      "href": "https://ballotpedia.org/San_Carlos_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "San Simon Unified School District, Arizona",
+      "href": "https://ballotpedia.org/San_Simon_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Salome Consolidated Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Salome_Consolidated_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "San Fernando Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/San_Fernando_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Sanders Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Sanders_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Santa Cruz Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Santa_Cruz_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Santa Cruz Valley Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Santa_Cruz_Valley_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Santa Cruz Valley Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Santa_Cruz_Valley_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Scottsdale Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Scottsdale_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Sierra Vista Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Sierra_Vista_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Sedona-Oak Creek Joint Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Sedona-Oak_Creek_Joint_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Seligman Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Seligman_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Sentinel Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Sentinel_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Show Low Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Show_Low_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Skull Valley Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Skull_Valley_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Snowflake Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Snowflake_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Solomon Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Solomon_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Somerton Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Somerton_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Sonoita Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Sonoita_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "St. David Unified School District, Arizona",
+      "href": "https://ballotpedia.org/St._David_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "St. Johns Unified School District, Arizona",
+      "href": "https://ballotpedia.org/St._Johns_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Stanfield Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Stanfield_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Sunnyside Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Sunnyside_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Superior Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Superior_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Tanque Verde Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Tanque_Verde_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Tolleson Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Tolleson_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Thatcher Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Thatcher_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Tempe Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Tempe_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Tempe Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Tempe_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Tolleson Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Tolleson_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Toltec Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Toltec_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Tombstone Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Tombstone_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Tonto Basin Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Tonto_Basin_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Topock Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Topock_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Tuba City Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Tuba_City_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Vail Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Vail_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Valentine Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Valentine_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Union Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Union_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Tucson Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Tucson_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Valley Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Valley_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Vernon Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Vernon_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Walnut Grove Elementary District, Arizona",
+      "href": "https://ballotpedia.org/Walnut_Grove_Elementary_District,_Arizona"
+    },
+    {
+      "text": "Washington Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Washington_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Wellton Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Wellton_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Wenden Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Wenden_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "West-Mec-Western Maricopa Education Center, Arizona",
+      "href": "https://ballotpedia.org/West-Mec-Western_Maricopa_Education_Center,_Arizona"
+    },
+    {
+      "text": "Whiteriver Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Whiteriver_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Willcox Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Willcox_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Williams Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Williams_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Wickenburg Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Wickenburg_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Wilson Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Wilson_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Window Rock Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Window_Rock_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Winslow Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Winslow_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Yarnell Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Yarnell_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Yucca Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Yucca_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Young Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Young_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Yuma Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Yuma_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Yuma Union High School District, Arizona",
+      "href": "https://ballotpedia.org/Yuma_Union_High_School_District,_Arizona"
+    },
+    {
+      "text": "Forrest Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Forrest_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Piñon Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Pi%C3%B1on_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Baboquivari Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Baboquivari_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Apache Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Apache_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Fort Huachuca Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Fort_Huachuca_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Navajo County Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Navajo_County_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Graham County Special Services School District, Arizona",
+      "href": "https://ballotpedia.org/Graham_County_Special_Services_School_District,_Arizona"
+    },
+    {
+      "text": "Yavapai Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Yavapai_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Blue Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Blue_Elementary_School_District,_Arizona"
+    },
+    {
+      "text": "Coconino County Accommodation School District, Arizona",
+      "href": "https://ballotpedia.org/Coconino_County_Accommodation_School_District,_Arizona"
+    },
+    {
+      "text": "Clifton Unified School District, Arizona",
+      "href": "https://ballotpedia.org/Clifton_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "J. O. Combs Unified School District, Arizona",
+      "href": "https://ballotpedia.org/J._O._Combs_Unified_School_District,_Arizona"
+    },
+    {
+      "text": "Owens-Whitney Elementary School District, Arizona",
+      "href": "https://ballotpedia.org/Owens-Whitney_Elementary_School_District,_Arizona"
+    }
+  ],
+  "count": 233
+}

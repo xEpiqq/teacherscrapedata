@@ -1,0 +1,725 @@
+{
+  "links": [
+    {
+      "text": "Hancock County Schools, Georgia",
+      "href": "https://ballotpedia.org/Hancock_County_Schools,_Georgia"
+    },
+    {
+      "text": "Glynn County School System, Georgia",
+      "href": "https://ballotpedia.org/Glynn_County_School_System,_Georgia"
+    },
+    {
+      "text": "Walton County School District, Georgia",
+      "href": "https://ballotpedia.org/Walton_County_School_District,_Georgia"
+    },
+    {
+      "text": "Wilcox County School District, Georgia",
+      "href": "https://ballotpedia.org/Wilcox_County_School_District,_Georgia"
+    },
+    {
+      "text": "Butts County School System, Georgia",
+      "href": "https://ballotpedia.org/Butts_County_School_System,_Georgia"
+    },
+    {
+      "text": "Cobb County School District, Georgia",
+      "href": "https://ballotpedia.org/Cobb_County_School_District,_Georgia"
+    },
+    {
+      "text": "Marion County Schools, Georgia",
+      "href": "https://ballotpedia.org/Marion_County_Schools,_Georgia"
+    },
+    {
+      "text": "Rome City Schools, Georgia",
+      "href": "https://ballotpedia.org/Rome_City_Schools,_Georgia"
+    },
+    {
+      "text": "Gilmer County Schools, Georgia",
+      "href": "https://ballotpedia.org/Gilmer_County_Schools,_Georgia"
+    },
+    {
+      "text": "Screven County School System, Georgia",
+      "href": "https://ballotpedia.org/Screven_County_School_System,_Georgia"
+    },
+    {
+      "text": "Carrollton City School District, Georgia",
+      "href": "https://ballotpedia.org/Carrollton_City_School_District,_Georgia"
+    },
+    {
+      "text": "Liberty County School System, Georgia",
+      "href": "https://ballotpedia.org/Liberty_County_School_System,_Georgia"
+    },
+    {
+      "text": "Pike County Schools, Georgia",
+      "href": "https://ballotpedia.org/Pike_County_Schools,_Georgia"
+    },
+    {
+      "text": "Schley County Schools, Georgia",
+      "href": "https://ballotpedia.org/Schley_County_Schools,_Georgia"
+    },
+    {
+      "text": "Putnam County Charter School System, Georgia",
+      "href": "https://ballotpedia.org/Putnam_County_Charter_School_System,_Georgia"
+    },
+    {
+      "text": "Monroe County School District, Georgia",
+      "href": "https://ballotpedia.org/Monroe_County_School_District,_Georgia"
+    },
+    {
+      "text": "Crawford County Schools, Georgia",
+      "href": "https://ballotpedia.org/Crawford_County_Schools,_Georgia"
+    },
+    {
+      "text": "Polk County School District, Georgia",
+      "href": "https://ballotpedia.org/Polk_County_School_District,_Georgia"
+    },
+    {
+      "text": "Dalton City School District, Georgia",
+      "href": "https://ballotpedia.org/Dalton_City_School_District,_Georgia"
+    },
+    {
+      "text": "Appling County School System, Georgia",
+      "href": "https://ballotpedia.org/Appling_County_School_System,_Georgia"
+    },
+    {
+      "text": "Atkinson County School District, Georgia",
+      "href": "https://ballotpedia.org/Atkinson_County_School_District,_Georgia"
+    },
+    {
+      "text": "Bacon County School District, Georgia",
+      "href": "https://ballotpedia.org/Bacon_County_School_District,_Georgia"
+    },
+    {
+      "text": "Baker County School District, Georgia",
+      "href": "https://ballotpedia.org/Baker_County_School_District,_Georgia"
+    },
+    {
+      "text": "Baldwin County School District, Georgia",
+      "href": "https://ballotpedia.org/Baldwin_County_School_District,_Georgia"
+    },
+    {
+      "text": "Banks County School District, Georgia",
+      "href": "https://ballotpedia.org/Banks_County_School_District,_Georgia"
+    },
+    {
+      "text": "Barrow County School System, Georgia",
+      "href": "https://ballotpedia.org/Barrow_County_School_System,_Georgia"
+    },
+    {
+      "text": "Bartow County School System, Georgia",
+      "href": "https://ballotpedia.org/Bartow_County_School_System,_Georgia"
+    },
+    {
+      "text": "Ben Hill County Schools, Georgia",
+      "href": "https://ballotpedia.org/Ben_Hill_County_Schools,_Georgia"
+    },
+    {
+      "text": "Berrien County Schools, Georgia",
+      "href": "https://ballotpedia.org/Berrien_County_Schools,_Georgia"
+    },
+    {
+      "text": "Bibb County School District, Georgia",
+      "href": "https://ballotpedia.org/Bibb_County_School_District,_Georgia"
+    },
+    {
+      "text": "Bleckley County Schools, Georgia",
+      "href": "https://ballotpedia.org/Bleckley_County_Schools,_Georgia"
+    },
+    {
+      "text": "Bremen City Schools, Georgia",
+      "href": "https://ballotpedia.org/Bremen_City_Schools,_Georgia"
+    },
+    {
+      "text": "Brooks County School District, Georgia",
+      "href": "https://ballotpedia.org/Brooks_County_School_District,_Georgia"
+    },
+    {
+      "text": "Bryan County Schools, Georgia",
+      "href": "https://ballotpedia.org/Bryan_County_Schools,_Georgia"
+    },
+    {
+      "text": "Bulloch County Schools, Georgia",
+      "href": "https://ballotpedia.org/Bulloch_County_Schools,_Georgia"
+    },
+    {
+      "text": "Burke County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Burke_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Calhoun City Schools, Georgia",
+      "href": "https://ballotpedia.org/Calhoun_City_Schools,_Georgia"
+    },
+    {
+      "text": "Calhoun County Schools, Georgia",
+      "href": "https://ballotpedia.org/Calhoun_County_Schools,_Georgia"
+    },
+    {
+      "text": "Camden County Schools, Georgia",
+      "href": "https://ballotpedia.org/Camden_County_Schools,_Georgia"
+    },
+    {
+      "text": "Candler County School District, Georgia",
+      "href": "https://ballotpedia.org/Candler_County_School_District,_Georgia"
+    },
+    {
+      "text": "Carroll County Schools, Georgia",
+      "href": "https://ballotpedia.org/Carroll_County_Schools,_Georgia"
+    },
+    {
+      "text": "Cartersville City Schools, Georgia",
+      "href": "https://ballotpedia.org/Cartersville_City_Schools,_Georgia"
+    },
+    {
+      "text": "Catoosa County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Catoosa_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Charlton County School District, Georgia",
+      "href": "https://ballotpedia.org/Charlton_County_School_District,_Georgia"
+    },
+    {
+      "text": "Chattahoochee County School District, Georgia",
+      "href": "https://ballotpedia.org/Chattahoochee_County_School_District,_Georgia"
+    },
+    {
+      "text": "Chattooga County School District, Georgia",
+      "href": "https://ballotpedia.org/Chattooga_County_School_District,_Georgia"
+    },
+    {
+      "text": "Chickamauga City School District, Georgia",
+      "href": "https://ballotpedia.org/Chickamauga_City_School_District,_Georgia"
+    },
+    {
+      "text": "Clarke County School District, Georgia",
+      "href": "https://ballotpedia.org/Clarke_County_School_District,_Georgia"
+    },
+    {
+      "text": "Clay County School District, Georgia",
+      "href": "https://ballotpedia.org/Clay_County_School_District,_Georgia"
+    },
+    {
+      "text": "Clayton County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Clayton_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Clinch County School District, Georgia",
+      "href": "https://ballotpedia.org/Clinch_County_School_District,_Georgia"
+    },
+    {
+      "text": "Coffee County Schools, Georgia",
+      "href": "https://ballotpedia.org/Coffee_County_Schools,_Georgia"
+    },
+    {
+      "text": "Colquitt County School District, Georgia",
+      "href": "https://ballotpedia.org/Colquitt_County_School_District,_Georgia"
+    },
+    {
+      "text": "Columbia County School District, Georgia",
+      "href": "https://ballotpedia.org/Columbia_County_School_District,_Georgia"
+    },
+    {
+      "text": "Commerce City Schools, Georgia",
+      "href": "https://ballotpedia.org/Commerce_City_Schools,_Georgia"
+    },
+    {
+      "text": "Cook County Schools, Georgia",
+      "href": "https://ballotpedia.org/Cook_County_Schools,_Georgia"
+    },
+    {
+      "text": "Coweta County School System, Georgia",
+      "href": "https://ballotpedia.org/Coweta_County_School_System,_Georgia"
+    },
+    {
+      "text": "Crisp County Schools, Georgia",
+      "href": "https://ballotpedia.org/Crisp_County_Schools,_Georgia"
+    },
+    {
+      "text": "Dade County Schools, Georgia",
+      "href": "https://ballotpedia.org/Dade_County_Schools,_Georgia"
+    },
+    {
+      "text": "Dawson County School District, Georgia",
+      "href": "https://ballotpedia.org/Dawson_County_School_District,_Georgia"
+    },
+    {
+      "text": "City Schools of Decatur, Georgia",
+      "href": "https://ballotpedia.org/City_Schools_of_Decatur,_Georgia"
+    },
+    {
+      "text": "Dodge County Schools, Georgia",
+      "href": "https://ballotpedia.org/Dodge_County_Schools,_Georgia"
+    },
+    {
+      "text": "Dooly County School System, Georgia",
+      "href": "https://ballotpedia.org/Dooly_County_School_System,_Georgia"
+    },
+    {
+      "text": "Dougherty County School System, Georgia",
+      "href": "https://ballotpedia.org/Dougherty_County_School_System,_Georgia"
+    },
+    {
+      "text": "Douglas County School System, Georgia",
+      "href": "https://ballotpedia.org/Douglas_County_School_System,_Georgia"
+    },
+    {
+      "text": "Dublin City School District, Georgia",
+      "href": "https://ballotpedia.org/Dublin_City_School_District,_Georgia"
+    },
+    {
+      "text": "Echols County School District, Georgia",
+      "href": "https://ballotpedia.org/Echols_County_School_District,_Georgia"
+    },
+    {
+      "text": "Elbert County School District, Georgia",
+      "href": "https://ballotpedia.org/Elbert_County_School_District,_Georgia"
+    },
+    {
+      "text": "Emanuel County Schools, Georgia",
+      "href": "https://ballotpedia.org/Emanuel_County_Schools,_Georgia"
+    },
+    {
+      "text": "Evans County Charter School System, Georgia",
+      "href": "https://ballotpedia.org/Evans_County_Charter_School_System,_Georgia"
+    },
+    {
+      "text": "Fannin County School System, Georgia",
+      "href": "https://ballotpedia.org/Fannin_County_School_System,_Georgia"
+    },
+    {
+      "text": "Fayette County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Fayette_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Floyd County Schools, Georgia",
+      "href": "https://ballotpedia.org/Floyd_County_Schools,_Georgia"
+    },
+    {
+      "text": "Forsyth County Schools, Georgia",
+      "href": "https://ballotpedia.org/Forsyth_County_Schools,_Georgia"
+    },
+    {
+      "text": "Fulton County Schools, Georgia",
+      "href": "https://ballotpedia.org/Fulton_County_Schools,_Georgia"
+    },
+    {
+      "text": "Gainesville City School System, Georgia",
+      "href": "https://ballotpedia.org/Gainesville_City_School_System,_Georgia"
+    },
+    {
+      "text": "Gordon County Schools, Georgia",
+      "href": "https://ballotpedia.org/Gordon_County_Schools,_Georgia"
+    },
+    {
+      "text": "Grady County Schools, Georgia",
+      "href": "https://ballotpedia.org/Grady_County_Schools,_Georgia"
+    },
+    {
+      "text": "Greene County School System, Georgia",
+      "href": "https://ballotpedia.org/Greene_County_School_System,_Georgia"
+    },
+    {
+      "text": "Hall County Schools, Georgia",
+      "href": "https://ballotpedia.org/Hall_County_Schools,_Georgia"
+    },
+    {
+      "text": "Haralson County School District, Georgia",
+      "href": "https://ballotpedia.org/Haralson_County_School_District,_Georgia"
+    },
+    {
+      "text": "Harris County School District, Georgia",
+      "href": "https://ballotpedia.org/Harris_County_School_District,_Georgia"
+    },
+    {
+      "text": "Henry County Schools, Georgia",
+      "href": "https://ballotpedia.org/Henry_County_Schools,_Georgia"
+    },
+    {
+      "text": "Irwin County Schools, Georgia",
+      "href": "https://ballotpedia.org/Irwin_County_Schools,_Georgia"
+    },
+    {
+      "text": "Jackson County School System, Georgia",
+      "href": "https://ballotpedia.org/Jackson_County_School_System,_Georgia"
+    },
+    {
+      "text": "Jeff Davis County Schools, Georgia",
+      "href": "https://ballotpedia.org/Jeff_Davis_County_Schools,_Georgia"
+    },
+    {
+      "text": "Jefferson City Schools, Georgia",
+      "href": "https://ballotpedia.org/Jefferson_City_Schools,_Georgia"
+    },
+    {
+      "text": "Jefferson County Schools, Georgia",
+      "href": "https://ballotpedia.org/Jefferson_County_Schools,_Georgia"
+    },
+    {
+      "text": "Jenkins County School System, Georgia",
+      "href": "https://ballotpedia.org/Jenkins_County_School_System,_Georgia"
+    },
+    {
+      "text": "Johnson County Schools, Georgia",
+      "href": "https://ballotpedia.org/Johnson_County_Schools,_Georgia"
+    },
+    {
+      "text": "Jones County School System, Georgia",
+      "href": "https://ballotpedia.org/Jones_County_School_System,_Georgia"
+    },
+    {
+      "text": "Lamar County Schools, Georgia",
+      "href": "https://ballotpedia.org/Lamar_County_Schools,_Georgia"
+    },
+    {
+      "text": "Lanier County Schools, Georgia",
+      "href": "https://ballotpedia.org/Lanier_County_Schools,_Georgia"
+    },
+    {
+      "text": "Laurens County Schools, Georgia",
+      "href": "https://ballotpedia.org/Laurens_County_Schools,_Georgia"
+    },
+    {
+      "text": "Long County School System, Georgia",
+      "href": "https://ballotpedia.org/Long_County_School_System,_Georgia"
+    },
+    {
+      "text": "Lumpkin County Schools, Georgia",
+      "href": "https://ballotpedia.org/Lumpkin_County_Schools,_Georgia"
+    },
+    {
+      "text": "Macon County School System, Georgia",
+      "href": "https://ballotpedia.org/Macon_County_School_System,_Georgia"
+    },
+    {
+      "text": "Madison County Charter School System, Georgia",
+      "href": "https://ballotpedia.org/Madison_County_Charter_School_System,_Georgia"
+    },
+    {
+      "text": "Marietta City Schools, Georgia",
+      "href": "https://ballotpedia.org/Marietta_City_Schools,_Georgia"
+    },
+    {
+      "text": "Mcintosh County Schools, Georgia",
+      "href": "https://ballotpedia.org/Mcintosh_County_Schools,_Georgia"
+    },
+    {
+      "text": "Miller County Schools, Georgia",
+      "href": "https://ballotpedia.org/Miller_County_Schools,_Georgia"
+    },
+    {
+      "text": "Mitchell County School System, Georgia",
+      "href": "https://ballotpedia.org/Mitchell_County_School_System,_Georgia"
+    },
+    {
+      "text": "Montgomery County School System, Georgia",
+      "href": "https://ballotpedia.org/Montgomery_County_School_System,_Georgia"
+    },
+    {
+      "text": "Newton County Schools, Georgia",
+      "href": "https://ballotpedia.org/Newton_County_Schools,_Georgia"
+    },
+    {
+      "text": "Paulding County School District, Georgia",
+      "href": "https://ballotpedia.org/Paulding_County_School_District,_Georgia"
+    },
+    {
+      "text": "Peach County Schools, Georgia",
+      "href": "https://ballotpedia.org/Peach_County_Schools,_Georgia"
+    },
+    {
+      "text": "Pelham City Schools Charter System, Georgia",
+      "href": "https://ballotpedia.org/Pelham_City_Schools_Charter_System,_Georgia"
+    },
+    {
+      "text": "Pickens County School District, Georgia",
+      "href": "https://ballotpedia.org/Pickens_County_School_District,_Georgia"
+    },
+    {
+      "text": "Pierce County Schools, Georgia",
+      "href": "https://ballotpedia.org/Pierce_County_Schools,_Georgia"
+    },
+    {
+      "text": "Pulaski County Schools, Georgia",
+      "href": "https://ballotpedia.org/Pulaski_County_Schools,_Georgia"
+    },
+    {
+      "text": "Quitman County School District, Georgia",
+      "href": "https://ballotpedia.org/Quitman_County_School_District,_Georgia"
+    },
+    {
+      "text": "Randolph County School System, Georgia",
+      "href": "https://ballotpedia.org/Randolph_County_School_System,_Georgia"
+    },
+    {
+      "text": "Seminole County Schools, Georgia",
+      "href": "https://ballotpedia.org/Seminole_County_Schools,_Georgia"
+    },
+    {
+      "text": "Griffin-Spalding County School System, Georgia",
+      "href": "https://ballotpedia.org/Griffin-Spalding_County_School_System,_Georgia"
+    },
+    {
+      "text": "Stephens County School System, Georgia",
+      "href": "https://ballotpedia.org/Stephens_County_School_System,_Georgia"
+    },
+    {
+      "text": "Talbot County Schools, Georgia",
+      "href": "https://ballotpedia.org/Talbot_County_Schools,_Georgia"
+    },
+    {
+      "text": "Taliaferro County Schools, Georgia",
+      "href": "https://ballotpedia.org/Taliaferro_County_Schools,_Georgia"
+    },
+    {
+      "text": "Telfair County School District, Georgia",
+      "href": "https://ballotpedia.org/Telfair_County_School_District,_Georgia"
+    },
+    {
+      "text": "Terrell County School District, Georgia",
+      "href": "https://ballotpedia.org/Terrell_County_School_District,_Georgia"
+    },
+    {
+      "text": "Thomas County Schools, Georgia",
+      "href": "https://ballotpedia.org/Thomas_County_Schools,_Georgia"
+    },
+    {
+      "text": "Thomaston-Upson Schools, Georgia",
+      "href": "https://ballotpedia.org/Thomaston-Upson_Schools,_Georgia"
+    },
+    {
+      "text": "Thomasville City Schools, Georgia",
+      "href": "https://ballotpedia.org/Thomasville_City_Schools,_Georgia"
+    },
+    {
+      "text": "Tift County School System, Georgia",
+      "href": "https://ballotpedia.org/Tift_County_School_System,_Georgia"
+    },
+    {
+      "text": "Toombs County School District, Georgia",
+      "href": "https://ballotpedia.org/Toombs_County_School_District,_Georgia"
+    },
+    {
+      "text": "Towns County School District, Georgia",
+      "href": "https://ballotpedia.org/Towns_County_School_District,_Georgia"
+    },
+    {
+      "text": "Troup County School System, Georgia",
+      "href": "https://ballotpedia.org/Troup_County_School_System,_Georgia"
+    },
+    {
+      "text": "Twiggs County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Twiggs_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Union County School District, Georgia",
+      "href": "https://ballotpedia.org/Union_County_School_District,_Georgia"
+    },
+    {
+      "text": "Ware County Schools, Georgia",
+      "href": "https://ballotpedia.org/Ware_County_Schools,_Georgia"
+    },
+    {
+      "text": "Whitfield County Schools, Georgia",
+      "href": "https://ballotpedia.org/Whitfield_County_Schools,_Georgia"
+    },
+    {
+      "text": "Wilkes County Schools, Georgia",
+      "href": "https://ballotpedia.org/Wilkes_County_Schools,_Georgia"
+    },
+    {
+      "text": "Wilkinson County School District, Georgia",
+      "href": "https://ballotpedia.org/Wilkinson_County_School_District,_Georgia"
+    },
+    {
+      "text": "Atlanta Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Atlanta_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Savannah-Chatham County Public School System, Georgia",
+      "href": "https://ballotpedia.org/Savannah-Chatham_County_Public_School_System,_Georgia"
+    },
+    {
+      "text": "Cherokee County School District, Georgia",
+      "href": "https://ballotpedia.org/Cherokee_County_School_District,_Georgia"
+    },
+    {
+      "text": "DeKalb County School District, Georgia",
+      "href": "https://ballotpedia.org/DeKalb_County_School_District,_Georgia"
+    },
+    {
+      "text": "Gwinnett County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Gwinnett_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Muscogee County School District, Georgia",
+      "href": "https://ballotpedia.org/Muscogee_County_School_District,_Georgia"
+    },
+    {
+      "text": "Richmond County School System, Georgia",
+      "href": "https://ballotpedia.org/Richmond_County_School_System,_Georgia"
+    },
+    {
+      "text": "Hart County School District, Georgia",
+      "href": "https://ballotpedia.org/Hart_County_School_District,_Georgia"
+    },
+    {
+      "text": "Franklin County Schools, Georgia",
+      "href": "https://ballotpedia.org/Franklin_County_Schools,_Georgia"
+    },
+    {
+      "text": "Taylor County Schools, Georgia",
+      "href": "https://ballotpedia.org/Taylor_County_Schools,_Georgia"
+    },
+    {
+      "text": "Rockdale County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Rockdale_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Habersham County Schools, Georgia",
+      "href": "https://ballotpedia.org/Habersham_County_Schools,_Georgia"
+    },
+    {
+      "text": "Meriwether County School District, Georgia",
+      "href": "https://ballotpedia.org/Meriwether_County_School_District,_Georgia"
+    },
+    {
+      "text": "Decatur County School District, Georgia",
+      "href": "https://ballotpedia.org/Decatur_County_School_District,_Georgia"
+    },
+    {
+      "text": "Early County School System, Georgia",
+      "href": "https://ballotpedia.org/Early_County_School_System,_Georgia"
+    },
+    {
+      "text": "Heard County School System, Georgia",
+      "href": "https://ballotpedia.org/Heard_County_School_System,_Georgia"
+    },
+    {
+      "text": "Houston County School District, Georgia",
+      "href": "https://ballotpedia.org/Houston_County_School_District,_Georgia"
+    },
+    {
+      "text": "Jasper County Charter System, Georgia",
+      "href": "https://ballotpedia.org/Jasper_County_Charter_System,_Georgia"
+    },
+    {
+      "text": "Lowndes County Schools, Georgia",
+      "href": "https://ballotpedia.org/Lowndes_County_Schools,_Georgia"
+    },
+    {
+      "text": "Oglethorpe County School System, Georgia",
+      "href": "https://ballotpedia.org/Oglethorpe_County_School_System,_Georgia"
+    },
+    {
+      "text": "Sumter County Schools, Georgia",
+      "href": "https://ballotpedia.org/Sumter_County_Schools,_Georgia"
+    },
+    {
+      "text": "Tattnall County Schools, Georgia",
+      "href": "https://ballotpedia.org/Tattnall_County_Schools,_Georgia"
+    },
+    {
+      "text": "Stewart County School District, Georgia",
+      "href": "https://ballotpedia.org/Stewart_County_School_District,_Georgia"
+    },
+    {
+      "text": "Vidalia City School District, Georgia",
+      "href": "https://ballotpedia.org/Vidalia_City_School_District,_Georgia"
+    },
+    {
+      "text": "Lincoln County Schools, Georgia",
+      "href": "https://ballotpedia.org/Lincoln_County_Schools,_Georgia"
+    },
+    {
+      "text": "McDuffie County School System, Georgia",
+      "href": "https://ballotpedia.org/McDuffie_County_School_System,_Georgia"
+    },
+    {
+      "text": "Morgan County Charter School System, Georgia",
+      "href": "https://ballotpedia.org/Morgan_County_Charter_School_System,_Georgia"
+    },
+    {
+      "text": "Effingham County Schools, Georgia",
+      "href": "https://ballotpedia.org/Effingham_County_Schools,_Georgia"
+    },
+    {
+      "text": "Lee County School System, Georgia",
+      "href": "https://ballotpedia.org/Lee_County_School_System,_Georgia"
+    },
+    {
+      "text": "Brantley County School District, Georgia",
+      "href": "https://ballotpedia.org/Brantley_County_School_District,_Georgia"
+    },
+    {
+      "text": "Buford City School District, Georgia",
+      "href": "https://ballotpedia.org/Buford_City_School_District,_Georgia"
+    },
+    {
+      "text": "Glascock County School District, Georgia",
+      "href": "https://ballotpedia.org/Glascock_County_School_District,_Georgia"
+    },
+    {
+      "text": "Murray County School District, Georgia",
+      "href": "https://ballotpedia.org/Murray_County_School_District,_Georgia"
+    },
+    {
+      "text": "Oconee County School District, Georgia",
+      "href": "https://ballotpedia.org/Oconee_County_School_District,_Georgia"
+    },
+    {
+      "text": "Rabun County School District, Georgia",
+      "href": "https://ballotpedia.org/Rabun_County_School_District,_Georgia"
+    },
+    {
+      "text": "Social Circle City School District, Georgia",
+      "href": "https://ballotpedia.org/Social_Circle_City_School_District,_Georgia"
+    },
+    {
+      "text": "Treutlen County School District, Georgia",
+      "href": "https://ballotpedia.org/Treutlen_County_School_District,_Georgia"
+    },
+    {
+      "text": "Trion City School District, Georgia",
+      "href": "https://ballotpedia.org/Trion_City_School_District,_Georgia"
+    },
+    {
+      "text": "Turner County School District, Georgia",
+      "href": "https://ballotpedia.org/Turner_County_School_District,_Georgia"
+    },
+    {
+      "text": "Valdosta City School District, Georgia",
+      "href": "https://ballotpedia.org/Valdosta_City_School_District,_Georgia"
+    },
+    {
+      "text": "Walker County School District, Georgia",
+      "href": "https://ballotpedia.org/Walker_County_School_District,_Georgia"
+    },
+    {
+      "text": "Warren County School District, Georgia",
+      "href": "https://ballotpedia.org/Warren_County_School_District,_Georgia"
+    },
+    {
+      "text": "Washington County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Washington_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Wayne County School District, Georgia",
+      "href": "https://ballotpedia.org/Wayne_County_School_District,_Georgia"
+    },
+    {
+      "text": "Webster County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Webster_County_Public_Schools,_Georgia"
+    },
+    {
+      "text": "Wheeler County School District, Georgia",
+      "href": "https://ballotpedia.org/Wheeler_County_School_District,_Georgia"
+    },
+    {
+      "text": "White County School District, Georgia",
+      "href": "https://ballotpedia.org/White_County_School_District,_Georgia"
+    },
+    {
+      "text": "Worth County Public Schools, Georgia",
+      "href": "https://ballotpedia.org/Worth_County_Public_Schools,_Georgia"
+    }
+  ],
+  "count": 180
+}

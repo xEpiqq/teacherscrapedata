@@ -1,0 +1,569 @@
+{
+  "links": [
+    {
+      "text": "Alabama Department of Youth Services Schools, Alabama",
+      "href": "https://ballotpedia.org/Alabama_Department_of_Youth_Services_Schools,_Alabama"
+    },
+    {
+      "text": "Dothan City Schools, Alabama",
+      "href": "https://ballotpedia.org/Dothan_City_Schools,_Alabama"
+    },
+    {
+      "text": "Coffee County School District, Alabama",
+      "href": "https://ballotpedia.org/Coffee_County_School_District,_Alabama"
+    },
+    {
+      "text": "Haleyville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Haleyville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Geneva County School District, Alabama",
+      "href": "https://ballotpedia.org/Geneva_County_School_District,_Alabama"
+    },
+    {
+      "text": "Choctaw County School District, Alabama",
+      "href": "https://ballotpedia.org/Choctaw_County_School_District,_Alabama"
+    },
+    {
+      "text": "Mobile County Public Schools, Alabama",
+      "href": "https://ballotpedia.org/Mobile_County_Public_Schools,_Alabama"
+    },
+    {
+      "text": "Bibb County School District, Alabama",
+      "href": "https://ballotpedia.org/Bibb_County_School_District,_Alabama"
+    },
+    {
+      "text": "Jacksonville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Jacksonville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Bessemer City Schools, Alabama",
+      "href": "https://ballotpedia.org/Bessemer_City_Schools,_Alabama"
+    },
+    {
+      "text": "Mountain Brook City Schools, Alabama",
+      "href": "https://ballotpedia.org/Mountain_Brook_City_Schools,_Alabama"
+    },
+    {
+      "text": "Auburn City Schools, Alabama",
+      "href": "https://ballotpedia.org/Auburn_City_Schools,_Alabama"
+    },
+    {
+      "text": "Barbour County School District, Alabama",
+      "href": "https://ballotpedia.org/Barbour_County_School_District,_Alabama"
+    },
+    {
+      "text": "Huntsville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Huntsville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Alabama School of Fine Arts, Alabama",
+      "href": "https://ballotpedia.org/Alabama_School_of_Fine_Arts,_Alabama"
+    },
+    {
+      "text": "Albertville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Albertville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Alexander City Schools, Alabama",
+      "href": "https://ballotpedia.org/Alexander_City_Schools,_Alabama"
+    },
+    {
+      "text": "Athens City Schools, Alabama",
+      "href": "https://ballotpedia.org/Athens_City_Schools,_Alabama"
+    },
+    {
+      "text": "Autauga County School System, Alabama",
+      "href": "https://ballotpedia.org/Autauga_County_School_System,_Alabama"
+    },
+    {
+      "text": "Baldwin County Public Schools, Alabama",
+      "href": "https://ballotpedia.org/Baldwin_County_Public_Schools,_Alabama"
+    },
+    {
+      "text": "Brewton City Schools, Alabama",
+      "href": "https://ballotpedia.org/Brewton_City_Schools,_Alabama"
+    },
+    {
+      "text": "Calhoun County School District, Alabama",
+      "href": "https://ballotpedia.org/Calhoun_County_School_District,_Alabama"
+    },
+    {
+      "text": "Cullman City Schools, Alabama",
+      "href": "https://ballotpedia.org/Cullman_City_Schools,_Alabama"
+    },
+    {
+      "text": "Cullman County School System, Alabama",
+      "href": "https://ballotpedia.org/Cullman_County_School_System,_Alabama"
+    },
+    {
+      "text": "Decatur City Schools, Alabama",
+      "href": "https://ballotpedia.org/Decatur_City_Schools,_Alabama"
+    },
+    {
+      "text": "Elba City Schools, Alabama",
+      "href": "https://ballotpedia.org/Elba_City_Schools,_Alabama"
+    },
+    {
+      "text": "Elmore County School District, Alabama",
+      "href": "https://ballotpedia.org/Elmore_County_School_District,_Alabama"
+    },
+    {
+      "text": "Enterprise City Schools, Alabama",
+      "href": "https://ballotpedia.org/Enterprise_City_Schools,_Alabama"
+    },
+    {
+      "text": "Etowah County School System, Alabama",
+      "href": "https://ballotpedia.org/Etowah_County_School_System,_Alabama"
+    },
+    {
+      "text": "Eufaula City Schools, Alabama",
+      "href": "https://ballotpedia.org/Eufaula_City_Schools,_Alabama"
+    },
+    {
+      "text": "Fairfield City Schools, Alabama",
+      "href": "https://ballotpedia.org/Fairfield_City_Schools,_Alabama"
+    },
+    {
+      "text": "Florence City Schools, Alabama",
+      "href": "https://ballotpedia.org/Florence_City_Schools,_Alabama"
+    },
+    {
+      "text": "Fort Payne City Schools, Alabama",
+      "href": "https://ballotpedia.org/Fort_Payne_City_Schools,_Alabama"
+    },
+    {
+      "text": "Gadsden City Schools, Alabama",
+      "href": "https://ballotpedia.org/Gadsden_City_Schools,_Alabama"
+    },
+    {
+      "text": "Jasper City Schools, Alabama",
+      "href": "https://ballotpedia.org/Jasper_City_Schools,_Alabama"
+    },
+    {
+      "text": "Lee County School District, Alabama",
+      "href": "https://ballotpedia.org/Lee_County_School_District,_Alabama"
+    },
+    {
+      "text": "Linden City Schools, Alabama",
+      "href": "https://ballotpedia.org/Linden_City_Schools,_Alabama"
+    },
+    {
+      "text": "Macon County School District, Alabama",
+      "href": "https://ballotpedia.org/Macon_County_School_District,_Alabama"
+    },
+    {
+      "text": "Madison City Schools, Alabama",
+      "href": "https://ballotpedia.org/Madison_City_Schools,_Alabama"
+    },
+    {
+      "text": "Marion County Schools, Alabama",
+      "href": "https://ballotpedia.org/Marion_County_Schools,_Alabama"
+    },
+    {
+      "text": "Montgomery Public Schools, Alabama",
+      "href": "https://ballotpedia.org/Montgomery_Public_Schools,_Alabama"
+    },
+    {
+      "text": "Oxford City Schools, Alabama",
+      "href": "https://ballotpedia.org/Oxford_City_Schools,_Alabama"
+    },
+    {
+      "text": "Perry County School District, Alabama",
+      "href": "https://ballotpedia.org/Perry_County_School_District,_Alabama"
+    },
+    {
+      "text": "Pickens County School District, Alabama",
+      "href": "https://ballotpedia.org/Pickens_County_School_District,_Alabama"
+    },
+    {
+      "text": "Randolph County School District, Alabama",
+      "href": "https://ballotpedia.org/Randolph_County_School_District,_Alabama"
+    },
+    {
+      "text": "Russellville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Russellville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Shelby County Schools, Alabama",
+      "href": "https://ballotpedia.org/Shelby_County_Schools,_Alabama"
+    },
+    {
+      "text": "Sylacauga City Schools, Alabama",
+      "href": "https://ballotpedia.org/Sylacauga_City_Schools,_Alabama"
+    },
+    {
+      "text": "Tarrant City Schools, Alabama",
+      "href": "https://ballotpedia.org/Tarrant_City_Schools,_Alabama"
+    },
+    {
+      "text": "Thomasville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Thomasville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Trussville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Trussville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Tuscaloosa County School System, Alabama",
+      "href": "https://ballotpedia.org/Tuscaloosa_County_School_System,_Alabama"
+    },
+    {
+      "text": "Washington County School District, Alabama",
+      "href": "https://ballotpedia.org/Washington_County_School_District,_Alabama"
+    },
+    {
+      "text": "Wilcox County School District, Alabama",
+      "href": "https://ballotpedia.org/Wilcox_County_School_District,_Alabama"
+    },
+    {
+      "text": "Andalusia City Schools, Alabama",
+      "href": "https://ballotpedia.org/Andalusia_City_Schools,_Alabama"
+    },
+    {
+      "text": "Anniston City Schools, Alabama",
+      "href": "https://ballotpedia.org/Anniston_City_Schools,_Alabama"
+    },
+    {
+      "text": "Arab City Schools, Alabama",
+      "href": "https://ballotpedia.org/Arab_City_Schools,_Alabama"
+    },
+    {
+      "text": "Birmingham City Schools, Alabama",
+      "href": "https://ballotpedia.org/Birmingham_City_Schools,_Alabama"
+    },
+    {
+      "text": "Blount County School District, Alabama",
+      "href": "https://ballotpedia.org/Blount_County_School_District,_Alabama"
+    },
+    {
+      "text": "Bullock County School District, Alabama",
+      "href": "https://ballotpedia.org/Bullock_County_School_District,_Alabama"
+    },
+    {
+      "text": "Chambers County School District, Alabama",
+      "href": "https://ballotpedia.org/Chambers_County_School_District,_Alabama"
+    },
+    {
+      "text": "Chilton County School District, Alabama",
+      "href": "https://ballotpedia.org/Chilton_County_School_District,_Alabama"
+    },
+    {
+      "text": "Clay County School District, Alabama",
+      "href": "https://ballotpedia.org/Clay_County_School_District,_Alabama"
+    },
+    {
+      "text": "Cleburne County School District, Alabama",
+      "href": "https://ballotpedia.org/Cleburne_County_School_District,_Alabama"
+    },
+    {
+      "text": "Conecuh County School District, Alabama",
+      "href": "https://ballotpedia.org/Conecuh_County_School_District,_Alabama"
+    },
+    {
+      "text": "Coosa County School District, Alabama",
+      "href": "https://ballotpedia.org/Coosa_County_School_District,_Alabama"
+    },
+    {
+      "text": "Crenshaw County School District, Alabama",
+      "href": "https://ballotpedia.org/Crenshaw_County_School_District,_Alabama"
+    },
+    {
+      "text": "Dale County School District, Alabama",
+      "href": "https://ballotpedia.org/Dale_County_School_District,_Alabama"
+    },
+    {
+      "text": "Escambia County School District, Alabama",
+      "href": "https://ballotpedia.org/Escambia_County_School_District,_Alabama"
+    },
+    {
+      "text": "Franklin County School District, Alabama",
+      "href": "https://ballotpedia.org/Franklin_County_School_District,_Alabama"
+    },
+    {
+      "text": "Greene County School District, Alabama",
+      "href": "https://ballotpedia.org/Greene_County_School_District,_Alabama"
+    },
+    {
+      "text": "Henry County School District, Alabama",
+      "href": "https://ballotpedia.org/Henry_County_School_District,_Alabama"
+    },
+    {
+      "text": "Hoover City Schools, Alabama",
+      "href": "https://ballotpedia.org/Hoover_City_Schools,_Alabama"
+    },
+    {
+      "text": "Lamar County School District, Alabama",
+      "href": "https://ballotpedia.org/Lamar_County_School_District,_Alabama"
+    },
+    {
+      "text": "Jackson County School District, Alabama",
+      "href": "https://ballotpedia.org/Jackson_County_School_District,_Alabama"
+    },
+    {
+      "text": "Limestone County School District, Alabama",
+      "href": "https://ballotpedia.org/Limestone_County_School_District,_Alabama"
+    },
+    {
+      "text": "Lowndes County School District, Alabama",
+      "href": "https://ballotpedia.org/Lowndes_County_School_District,_Alabama"
+    },
+    {
+      "text": "Tuscaloosa City Schools, Alabama",
+      "href": "https://ballotpedia.org/Tuscaloosa_City_Schools,_Alabama"
+    },
+    {
+      "text": "Sheffield City Schools, Alabama",
+      "href": "https://ballotpedia.org/Sheffield_City_Schools,_Alabama"
+    },
+    {
+      "text": "Tuscumbia City Schools, Alabama",
+      "href": "https://ballotpedia.org/Tuscumbia_City_Schools,_Alabama"
+    },
+    {
+      "text": "Vestavia Hills City Schools, Alabama",
+      "href": "https://ballotpedia.org/Vestavia_Hills_City_Schools,_Alabama"
+    },
+    {
+      "text": "Marengo County School District, Alabama",
+      "href": "https://ballotpedia.org/Marengo_County_School_District,_Alabama"
+    },
+    {
+      "text": "Opelika City Schools, Alabama",
+      "href": "https://ballotpedia.org/Opelika_City_Schools,_Alabama"
+    },
+    {
+      "text": "Monroe County School District, Alabama",
+      "href": "https://ballotpedia.org/Monroe_County_School_District,_Alabama"
+    },
+    {
+      "text": "Ozark City Schools, Alabama",
+      "href": "https://ballotpedia.org/Ozark_City_Schools,_Alabama"
+    },
+    {
+      "text": "Roanoke City Schools, Alabama",
+      "href": "https://ballotpedia.org/Roanoke_City_Schools,_Alabama"
+    },
+    {
+      "text": "Sumter County School District, Alabama",
+      "href": "https://ballotpedia.org/Sumter_County_School_District,_Alabama"
+    },
+    {
+      "text": "Winfield City Schools, Alabama",
+      "href": "https://ballotpedia.org/Winfield_City_Schools,_Alabama"
+    },
+    {
+      "text": "Madison County School System, Alabama",
+      "href": "https://ballotpedia.org/Madison_County_School_System,_Alabama"
+    },
+    {
+      "text": "Russell County School District, Alabama",
+      "href": "https://ballotpedia.org/Russell_County_School_District,_Alabama"
+    },
+    {
+      "text": "Jefferson County Schools, Alabama",
+      "href": "https://ballotpedia.org/Jefferson_County_Schools,_Alabama"
+    },
+    {
+      "text": "Fort Rucker Schools, Alabama",
+      "href": "https://ballotpedia.org/Fort_Rucker_Schools,_Alabama"
+    },
+    {
+      "text": "Saraland City Schools, Alabama",
+      "href": "https://ballotpedia.org/Saraland_City_Schools,_Alabama"
+    },
+    {
+      "text": "Alabaster City Schools, Alabama",
+      "href": "https://ballotpedia.org/Alabaster_City_Schools,_Alabama"
+    },
+    {
+      "text": "Chickasaw City Schools, Alabama",
+      "href": "https://ballotpedia.org/Chickasaw_City_Schools,_Alabama"
+    },
+    {
+      "text": "Pelham City Schools, Alabama",
+      "href": "https://ballotpedia.org/Pelham_City_Schools,_Alabama"
+    },
+    {
+      "text": "Pike Road Schools, Alabama",
+      "href": "https://ballotpedia.org/Pike_Road_Schools,_Alabama"
+    },
+    {
+      "text": "Gulf Shores City Schools, Alabama",
+      "href": "https://ballotpedia.org/Gulf_Shores_City_Schools,_Alabama"
+    },
+    {
+      "text": "Satsuma City Schools, Alabama",
+      "href": "https://ballotpedia.org/Satsuma_City_Schools,_Alabama"
+    },
+    {
+      "text": "Attalla City Schools, Alabama",
+      "href": "https://ballotpedia.org/Attalla_City_Schools,_Alabama"
+    },
+    {
+      "text": "Butler County School District, Alabama",
+      "href": "https://ballotpedia.org/Butler_County_School_District,_Alabama"
+    },
+    {
+      "text": "Cherokee County School District, Alabama",
+      "href": "https://ballotpedia.org/Cherokee_County_School_District,_Alabama"
+    },
+    {
+      "text": "Covington County School District, Alabama",
+      "href": "https://ballotpedia.org/Covington_County_School_District,_Alabama"
+    },
+    {
+      "text": "DeKalb County School District, Alabama",
+      "href": "https://ballotpedia.org/DeKalb_County_School_District,_Alabama"
+    },
+    {
+      "text": "Guntersville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Guntersville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Clarke County School District, Alabama",
+      "href": "https://ballotpedia.org/Clarke_County_School_District,_Alabama"
+    },
+    {
+      "text": "Hartselle City Schools, Alabama",
+      "href": "https://ballotpedia.org/Hartselle_City_Schools,_Alabama"
+    },
+    {
+      "text": "Hale County School District, Alabama",
+      "href": "https://ballotpedia.org/Hale_County_School_District,_Alabama"
+    },
+    {
+      "text": "Houston County School District, Alabama",
+      "href": "https://ballotpedia.org/Houston_County_School_District,_Alabama"
+    },
+    {
+      "text": "Lawrence County School District, Alabama",
+      "href": "https://ballotpedia.org/Lawrence_County_School_District,_Alabama"
+    },
+    {
+      "text": "Colbert County School District, Alabama",
+      "href": "https://ballotpedia.org/Colbert_County_School_District,_Alabama"
+    },
+    {
+      "text": "Marshall County School District, Alabama",
+      "href": "https://ballotpedia.org/Marshall_County_School_District,_Alabama"
+    },
+    {
+      "text": "Midfield City Schools, Alabama",
+      "href": "https://ballotpedia.org/Midfield_City_Schools,_Alabama"
+    },
+    {
+      "text": "Oneonta City Schools, Alabama",
+      "href": "https://ballotpedia.org/Oneonta_City_Schools,_Alabama"
+    },
+    {
+      "text": "Geneva City Schools, Alabama",
+      "href": "https://ballotpedia.org/Geneva_City_Schools,_Alabama"
+    },
+    {
+      "text": "Phenix City Schools, Alabama",
+      "href": "https://ballotpedia.org/Phenix_City_Schools,_Alabama"
+    },
+    {
+      "text": "Demopolis City Schools, Alabama",
+      "href": "https://ballotpedia.org/Demopolis_City_Schools,_Alabama"
+    },
+    {
+      "text": "Leeds City Schools, Alabama",
+      "href": "https://ballotpedia.org/Leeds_City_Schools,_Alabama"
+    },
+    {
+      "text": "Opp City Schools, Alabama",
+      "href": "https://ballotpedia.org/Opp_City_Schools,_Alabama"
+    },
+    {
+      "text": "Piedmont City Schools, Alabama",
+      "href": "https://ballotpedia.org/Piedmont_City_Schools,_Alabama"
+    },
+    {
+      "text": "Lauderdale County School District, Alabama",
+      "href": "https://ballotpedia.org/Lauderdale_County_School_District,_Alabama"
+    },
+    {
+      "text": "Muscle Shoals City Schools, Alabama",
+      "href": "https://ballotpedia.org/Muscle_Shoals_City_Schools,_Alabama"
+    },
+    {
+      "text": "St. Clair County School System, Alabama",
+      "href": "https://ballotpedia.org/St._Clair_County_School_System,_Alabama"
+    },
+    {
+      "text": "Talladega County School District, Alabama",
+      "href": "https://ballotpedia.org/Talladega_County_School_District,_Alabama"
+    },
+    {
+      "text": "Pike County School District, Alabama",
+      "href": "https://ballotpedia.org/Pike_County_School_District,_Alabama"
+    },
+    {
+      "text": "Selma City Schools, Alabama",
+      "href": "https://ballotpedia.org/Selma_City_Schools,_Alabama"
+    },
+    {
+      "text": "Daleville City Schools, Alabama",
+      "href": "https://ballotpedia.org/Daleville_City_Schools,_Alabama"
+    },
+    {
+      "text": "Homewood City Schools, Alabama",
+      "href": "https://ballotpedia.org/Homewood_City_Schools,_Alabama"
+    },
+    {
+      "text": "Scottsboro City Schools, Alabama",
+      "href": "https://ballotpedia.org/Scottsboro_City_Schools,_Alabama"
+    },
+    {
+      "text": "Fayette County School District, Alabama",
+      "href": "https://ballotpedia.org/Fayette_County_School_District,_Alabama"
+    },
+    {
+      "text": "Dallas County School District, Alabama",
+      "href": "https://ballotpedia.org/Dallas_County_School_District,_Alabama"
+    },
+    {
+      "text": "Lanett City Schools, Alabama",
+      "href": "https://ballotpedia.org/Lanett_City_Schools,_Alabama"
+    },
+    {
+      "text": "Tallassee City Schools, Alabama",
+      "href": "https://ballotpedia.org/Tallassee_City_Schools,_Alabama"
+    },
+    {
+      "text": "Boaz City Schools, Alabama",
+      "href": "https://ballotpedia.org/Boaz_City_Schools,_Alabama"
+    },
+    {
+      "text": "Tallapoosa County School District, Alabama",
+      "href": "https://ballotpedia.org/Tallapoosa_County_School_District,_Alabama"
+    },
+    {
+      "text": "Morgan County School District, Alabama",
+      "href": "https://ballotpedia.org/Morgan_County_School_District,_Alabama"
+    },
+    {
+      "text": "Walker County School District, Alabama",
+      "href": "https://ballotpedia.org/Walker_County_School_District,_Alabama"
+    },
+    {
+      "text": "Winston County School District, Alabama",
+      "href": "https://ballotpedia.org/Winston_County_School_District,_Alabama"
+    },
+    {
+      "text": "Talladega City Schools, Alabama",
+      "href": "https://ballotpedia.org/Talladega_City_Schools,_Alabama"
+    },
+    {
+      "text": "Troy City Schools, Alabama",
+      "href": "https://ballotpedia.org/Troy_City_Schools,_Alabama"
+    },
+    {
+      "text": "Pell City Schools, Alabama",
+      "href": "https://ballotpedia.org/Pell_City_Schools,_Alabama"
+    }
+  ],
+  "count": 141
+}

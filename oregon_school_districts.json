@@ -1,0 +1,793 @@
+{
+  "links": [
+    {
+      "text": "Sherwood School District, Oregon",
+      "href": "https://ballotpedia.org/Sherwood_School_District,_Oregon"
+    },
+    {
+      "text": "Three Rivers School District, Oregon",
+      "href": "https://ballotpedia.org/Three_Rivers_School_District,_Oregon"
+    },
+    {
+      "text": "Brookings-Harbor School District, Oregon",
+      "href": "https://ballotpedia.org/Brookings-Harbor_School_District,_Oregon"
+    },
+    {
+      "text": "North Marion School District, Oregon",
+      "href": "https://ballotpedia.org/North_Marion_School_District,_Oregon"
+    },
+    {
+      "text": "Harney County Union High School District, Oregon",
+      "href": "https://ballotpedia.org/Harney_County_Union_High_School_District,_Oregon"
+    },
+    {
+      "text": "Stanfield School District, Oregon",
+      "href": "https://ballotpedia.org/Stanfield_School_District,_Oregon"
+    },
+    {
+      "text": "Ashland School District, Oregon",
+      "href": "https://ballotpedia.org/Ashland_School_District,_Oregon"
+    },
+    {
+      "text": "Adrian School District, Oregon",
+      "href": "https://ballotpedia.org/Adrian_School_District,_Oregon"
+    },
+    {
+      "text": "Amity School District, Oregon",
+      "href": "https://ballotpedia.org/Amity_School_District,_Oregon"
+    },
+    {
+      "text": "Canby School District, Oregon",
+      "href": "https://ballotpedia.org/Canby_School_District,_Oregon"
+    },
+    {
+      "text": "West Linn-Wilsonville School District, Oregon",
+      "href": "https://ballotpedia.org/West_Linn-Wilsonville_School_District,_Oregon"
+    },
+    {
+      "text": "Yamhill-Carlton School District, Oregon",
+      "href": "https://ballotpedia.org/Yamhill-Carlton_School_District,_Oregon"
+    },
+    {
+      "text": "Oregon City School District, Oregon",
+      "href": "https://ballotpedia.org/Oregon_City_School_District,_Oregon"
+    },
+    {
+      "text": "Fern Ridge School District, Oregon",
+      "href": "https://ballotpedia.org/Fern_Ridge_School_District,_Oregon"
+    },
+    {
+      "text": "Warrenton-Hammond School District, Oregon",
+      "href": "https://ballotpedia.org/Warrenton-Hammond_School_District,_Oregon"
+    },
+    {
+      "text": "Pinehurst School District, Oregon",
+      "href": "https://ballotpedia.org/Pinehurst_School_District,_Oregon"
+    },
+    {
+      "text": "Silver Falls School District, Oregon",
+      "href": "https://ballotpedia.org/Silver_Falls_School_District,_Oregon"
+    },
+    {
+      "text": "Rainier School District, Oregon",
+      "href": "https://ballotpedia.org/Rainier_School_District,_Oregon"
+    },
+    {
+      "text": "Hillsboro School District, Oregon",
+      "href": "https://ballotpedia.org/Hillsboro_School_District,_Oregon"
+    },
+    {
+      "text": "Phoenix-Talent School District, Oregon",
+      "href": "https://ballotpedia.org/Phoenix-Talent_School_District,_Oregon"
+    },
+    {
+      "text": "Monument School District, Oregon",
+      "href": "https://ballotpedia.org/Monument_School_District,_Oregon"
+    },
+    {
+      "text": "Tigard-Tualatin School District, Oregon",
+      "href": "https://ballotpedia.org/Tigard-Tualatin_School_District,_Oregon"
+    },
+    {
+      "text": "Suntex School District, Oregon",
+      "href": "https://ballotpedia.org/Suntex_School_District,_Oregon"
+    },
+    {
+      "text": "Riverdale School District, Oregon",
+      "href": "https://ballotpedia.org/Riverdale_School_District,_Oregon"
+    },
+    {
+      "text": "Junction City School District, Oregon",
+      "href": "https://ballotpedia.org/Junction_City_School_District,_Oregon"
+    },
+    {
+      "text": "Forest Grove School District, Oregon",
+      "href": "https://ballotpedia.org/Forest_Grove_School_District,_Oregon"
+    },
+    {
+      "text": "South Umpqua School District, Oregon",
+      "href": "https://ballotpedia.org/South_Umpqua_School_District,_Oregon"
+    },
+    {
+      "text": "Oakridge School District, Oregon",
+      "href": "https://ballotpedia.org/Oakridge_School_District,_Oregon"
+    },
+    {
+      "text": "Glendale School District, Oregon",
+      "href": "https://ballotpedia.org/Glendale_School_District,_Oregon"
+    },
+    {
+      "text": "Pendleton School District, Oregon",
+      "href": "https://ballotpedia.org/Pendleton_School_District,_Oregon"
+    },
+    {
+      "text": "Powers School District, Oregon",
+      "href": "https://ballotpedia.org/Powers_School_District,_Oregon"
+    },
+    {
+      "text": "Willamina School District, Oregon",
+      "href": "https://ballotpedia.org/Willamina_School_District,_Oregon"
+    },
+    {
+      "text": "Drewsey School District, Oregon",
+      "href": "https://ballotpedia.org/Drewsey_School_District,_Oregon"
+    },
+    {
+      "text": "Redmond School District, Oregon",
+      "href": "https://ballotpedia.org/Redmond_School_District,_Oregon"
+    },
+    {
+      "text": "Perrydale School District, Oregon",
+      "href": "https://ballotpedia.org/Perrydale_School_District,_Oregon"
+    },
+    {
+      "text": "Beaverton School District, Oregon",
+      "href": "https://ballotpedia.org/Beaverton_School_District,_Oregon"
+    },
+    {
+      "text": "Reynolds School District, Oregon",
+      "href": "https://ballotpedia.org/Reynolds_School_District,_Oregon"
+    },
+    {
+      "text": "Crook County School District, Oregon",
+      "href": "https://ballotpedia.org/Crook_County_School_District,_Oregon"
+    },
+    {
+      "text": "Ukiah School District, Oregon",
+      "href": "https://ballotpedia.org/Ukiah_School_District,_Oregon"
+    },
+    {
+      "text": "Creswell School District, Oregon",
+      "href": "https://ballotpedia.org/Creswell_School_District,_Oregon"
+    },
+    {
+      "text": "Portland Public Schools, Oregon",
+      "href": "https://ballotpedia.org/Portland_Public_Schools,_Oregon"
+    },
+    {
+      "text": "North Santiam School District, Oregon",
+      "href": "https://ballotpedia.org/North_Santiam_School_District,_Oregon"
+    },
+    {
+      "text": "Adel School District, Oregon",
+      "href": "https://ballotpedia.org/Adel_School_District,_Oregon"
+    },
+    {
+      "text": "Jefferson County School District, Oregon",
+      "href": "https://ballotpedia.org/Jefferson_County_School_District,_Oregon"
+    },
+    {
+      "text": "Union School District, Oregon",
+      "href": "https://ballotpedia.org/Union_School_District,_Oregon"
+    },
+    {
+      "text": "Athena-Weston School District, Oregon",
+      "href": "https://ballotpedia.org/Athena-Weston_School_District,_Oregon"
+    },
+    {
+      "text": "Dayton School District, Oregon",
+      "href": "https://ballotpedia.org/Dayton_School_District,_Oregon"
+    },
+    {
+      "text": "Cascade School District, Oregon",
+      "href": "https://ballotpedia.org/Cascade_School_District,_Oregon"
+    },
+    {
+      "text": "Frenchglen School District, Oregon",
+      "href": "https://ballotpedia.org/Frenchglen_School_District,_Oregon"
+    },
+    {
+      "text": "Woodburn School District, Oregon",
+      "href": "https://ballotpedia.org/Woodburn_School_District,_Oregon"
+    },
+    {
+      "text": "Philomath School District, Oregon",
+      "href": "https://ballotpedia.org/Philomath_School_District,_Oregon"
+    },
+    {
+      "text": "Plush School District, Oregon",
+      "href": "https://ballotpedia.org/Plush_School_District,_Oregon"
+    },
+    {
+      "text": "Black Butte School District, Oregon",
+      "href": "https://ballotpedia.org/Black_Butte_School_District,_Oregon"
+    },
+    {
+      "text": "Ontario School District, Oregon",
+      "href": "https://ballotpedia.org/Ontario_School_District,_Oregon"
+    },
+    {
+      "text": "Pilot Rock School District, Oregon",
+      "href": "https://ballotpedia.org/Pilot_Rock_School_District,_Oregon"
+    },
+    {
+      "text": "Pleasant Hill School District, Oregon",
+      "href": "https://ballotpedia.org/Pleasant_Hill_School_District,_Oregon"
+    },
+    {
+      "text": "Enterprise School District, Oregon",
+      "href": "https://ballotpedia.org/Enterprise_School_District,_Oregon"
+    },
+    {
+      "text": "Dayville School District, Oregon",
+      "href": "https://ballotpedia.org/Dayville_School_District,_Oregon"
+    },
+    {
+      "text": "Hood River County School District, Oregon",
+      "href": "https://ballotpedia.org/Hood_River_County_School_District,_Oregon"
+    },
+    {
+      "text": "Gaston School District, Oregon",
+      "href": "https://ballotpedia.org/Gaston_School_District,_Oregon"
+    },
+    {
+      "text": "Myrtle Point School District, Oregon",
+      "href": "https://ballotpedia.org/Myrtle_Point_School_District,_Oregon"
+    },
+    {
+      "text": "Arock School District, Oregon",
+      "href": "https://ballotpedia.org/Arock_School_District,_Oregon"
+    },
+    {
+      "text": "Centennial School District, Oregon",
+      "href": "https://ballotpedia.org/Centennial_School_District,_Oregon"
+    },
+    {
+      "text": "Wallowa School District, Oregon",
+      "href": "https://ballotpedia.org/Wallowa_School_District,_Oregon"
+    },
+    {
+      "text": "Reedsport School District, Oregon",
+      "href": "https://ballotpedia.org/Reedsport_School_District,_Oregon"
+    },
+    {
+      "text": "Riddle School District, Oregon",
+      "href": "https://ballotpedia.org/Riddle_School_District,_Oregon"
+    },
+    {
+      "text": "Port Orford-Langlois School District, Oregon",
+      "href": "https://ballotpedia.org/Port_Orford-Langlois_School_District,_Oregon"
+    },
+    {
+      "text": "Sisters School District, Oregon",
+      "href": "https://ballotpedia.org/Sisters_School_District,_Oregon"
+    },
+    {
+      "text": "McMinnville School District, Oregon",
+      "href": "https://ballotpedia.org/McMinnville_School_District,_Oregon"
+    },
+    {
+      "text": "Morrow School District, Oregon",
+      "href": "https://ballotpedia.org/Morrow_School_District,_Oregon"
+    },
+    {
+      "text": "Juntura School District, Oregon",
+      "href": "https://ballotpedia.org/Juntura_School_District,_Oregon"
+    },
+    {
+      "text": "Gladstone School District, Oregon",
+      "href": "https://ballotpedia.org/Gladstone_School_District,_Oregon"
+    },
+    {
+      "text": "Lake Oswego School District, Oregon",
+      "href": "https://ballotpedia.org/Lake_Oswego_School_District,_Oregon"
+    },
+    {
+      "text": "Winston-Dillard School District, Oregon",
+      "href": "https://ballotpedia.org/Winston-Dillard_School_District,_Oregon"
+    },
+    {
+      "text": "Central Curry School District, Oregon",
+      "href": "https://ballotpedia.org/Central_Curry_School_District,_Oregon"
+    },
+    {
+      "text": "Salem-Keizer Public Schools, Oregon",
+      "href": "https://ballotpedia.org/Salem-Keizer_Public_Schools,_Oregon"
+    },
+    {
+      "text": "Pine Creek School District, Oregon",
+      "href": "https://ballotpedia.org/Pine_Creek_School_District,_Oregon"
+    },
+    {
+      "text": "McDermitt Elementary School District, Oregon",
+      "href": "https://ballotpedia.org/McDermitt_Elementary_School_District,_Oregon"
+    },
+    {
+      "text": "Medford School District, Oregon",
+      "href": "https://ballotpedia.org/Medford_School_District,_Oregon"
+    },
+    {
+      "text": "South Lane School District, Oregon",
+      "href": "https://ballotpedia.org/South_Lane_School_District,_Oregon"
+    },
+    {
+      "text": "Jefferson School District, Oregon",
+      "href": "https://ballotpedia.org/Jefferson_School_District,_Oregon"
+    },
+    {
+      "text": "Rogue River School District, Oregon",
+      "href": "https://ballotpedia.org/Rogue_River_School_District,_Oregon"
+    },
+    {
+      "text": "Jewell School District, Oregon",
+      "href": "https://ballotpedia.org/Jewell_School_District,_Oregon"
+    },
+    {
+      "text": "Ashwood School District, Oregon",
+      "href": "https://ballotpedia.org/Ashwood_School_District,_Oregon"
+    },
+    {
+      "text": "Sutherlin School District, Oregon",
+      "href": "https://ballotpedia.org/Sutherlin_School_District,_Oregon"
+    },
+    {
+      "text": "Seaside School District, Oregon",
+      "href": "https://ballotpedia.org/Seaside_School_District,_Oregon"
+    },
+    {
+      "text": "Astoria School District, Oregon",
+      "href": "https://ballotpedia.org/Astoria_School_District,_Oregon"
+    },
+    {
+      "text": "Dufur School District, Oregon",
+      "href": "https://ballotpedia.org/Dufur_School_District,_Oregon"
+    },
+    {
+      "text": "Neah-Kah-Nie School District, Oregon",
+      "href": "https://ballotpedia.org/Neah-Kah-Nie_School_District,_Oregon"
+    },
+    {
+      "text": "Tillamook School District, Oregon",
+      "href": "https://ballotpedia.org/Tillamook_School_District,_Oregon"
+    },
+    {
+      "text": "Umatilla School District, Oregon",
+      "href": "https://ballotpedia.org/Umatilla_School_District,_Oregon"
+    },
+    {
+      "text": "Gresham-Barlow School District, Oregon",
+      "href": "https://ballotpedia.org/Gresham-Barlow_School_District,_Oregon"
+    },
+    {
+      "text": "Hermiston School District, Oregon",
+      "href": "https://ballotpedia.org/Hermiston_School_District,_Oregon"
+    },
+    {
+      "text": "Klamath County School District, Oregon",
+      "href": "https://ballotpedia.org/Klamath_County_School_District,_Oregon"
+    },
+    {
+      "text": "Prairie City School District, Oregon",
+      "href": "https://ballotpedia.org/Prairie_City_School_District,_Oregon"
+    },
+    {
+      "text": "Milton-Freewater Unified School District, Oregon",
+      "href": "https://ballotpedia.org/Milton-Freewater_Unified_School_District,_Oregon"
+    },
+    {
+      "text": "Harrisburg School District, Oregon",
+      "href": "https://ballotpedia.org/Harrisburg_School_District,_Oregon"
+    },
+    {
+      "text": "Yoncalla School District, Oregon",
+      "href": "https://ballotpedia.org/Yoncalla_School_District,_Oregon"
+    },
+    {
+      "text": "La Grande School District, Oregon",
+      "href": "https://ballotpedia.org/La_Grande_School_District,_Oregon"
+    },
+    {
+      "text": "Baker School District, Oregon",
+      "href": "https://ballotpedia.org/Baker_School_District,_Oregon"
+    },
+    {
+      "text": "Bandon School District, Oregon",
+      "href": "https://ballotpedia.org/Bandon_School_District,_Oregon"
+    },
+    {
+      "text": "Banks School District, Oregon",
+      "href": "https://ballotpedia.org/Banks_School_District,_Oregon"
+    },
+    {
+      "text": "Bend-La Pine Schools, Oregon",
+      "href": "https://ballotpedia.org/Bend-La_Pine_Schools,_Oregon"
+    },
+    {
+      "text": "Bethel School District, Oregon",
+      "href": "https://ballotpedia.org/Bethel_School_District,_Oregon"
+    },
+    {
+      "text": "Central Linn School District, Oregon",
+      "href": "https://ballotpedia.org/Central_Linn_School_District,_Oregon"
+    },
+    {
+      "text": "Central Point School District, Oregon",
+      "href": "https://ballotpedia.org/Central_Point_School_District,_Oregon"
+    },
+    {
+      "text": "Central School District, Oregon",
+      "href": "https://ballotpedia.org/Central_School_District,_Oregon"
+    },
+    {
+      "text": "Clatskanie School District, Oregon",
+      "href": "https://ballotpedia.org/Clatskanie_School_District,_Oregon"
+    },
+    {
+      "text": "Colton School District, Oregon",
+      "href": "https://ballotpedia.org/Colton_School_District,_Oregon"
+    },
+    {
+      "text": "Condon School District, Oregon",
+      "href": "https://ballotpedia.org/Condon_School_District,_Oregon"
+    },
+    {
+      "text": "Coos Bay School District, Oregon",
+      "href": "https://ballotpedia.org/Coos_Bay_School_District,_Oregon"
+    },
+    {
+      "text": "Coquille School District, Oregon",
+      "href": "https://ballotpedia.org/Coquille_School_District,_Oregon"
+    },
+    {
+      "text": "Corvallis School District, Oregon",
+      "href": "https://ballotpedia.org/Corvallis_School_District,_Oregon"
+    },
+    {
+      "text": "Crow-Applegate-Lorane School District, Oregon",
+      "href": "https://ballotpedia.org/Crow-Applegate-Lorane_School_District,_Oregon"
+    },
+    {
+      "text": "Culver School District, Oregon",
+      "href": "https://ballotpedia.org/Culver_School_District,_Oregon"
+    },
+    {
+      "text": "Dallas School District, Oregon",
+      "href": "https://ballotpedia.org/Dallas_School_District,_Oregon"
+    },
+    {
+      "text": "David Douglas School District, Oregon",
+      "href": "https://ballotpedia.org/David_Douglas_School_District,_Oregon"
+    },
+    {
+      "text": "North Lake School District, Oregon",
+      "href": "https://ballotpedia.org/North_Lake_School_District,_Oregon"
+    },
+    {
+      "text": "Diamond School District, Oregon",
+      "href": "https://ballotpedia.org/Diamond_School_District,_Oregon"
+    },
+    {
+      "text": "Double O School District, Oregon",
+      "href": "https://ballotpedia.org/Double_O_School_District,_Oregon"
+    },
+    {
+      "text": "Eagle Point School District, Oregon",
+      "href": "https://ballotpedia.org/Eagle_Point_School_District,_Oregon"
+    },
+    {
+      "text": "Echo School District, Oregon",
+      "href": "https://ballotpedia.org/Echo_School_District,_Oregon"
+    },
+    {
+      "text": "Elgin School District, Oregon",
+      "href": "https://ballotpedia.org/Elgin_School_District,_Oregon"
+    },
+    {
+      "text": "Estacada School District, Oregon",
+      "href": "https://ballotpedia.org/Estacada_School_District,_Oregon"
+    },
+    {
+      "text": "Gervais School District, Oregon",
+      "href": "https://ballotpedia.org/Gervais_School_District,_Oregon"
+    },
+    {
+      "text": "Eugene School District, Oregon",
+      "href": "https://ballotpedia.org/Eugene_School_District,_Oregon"
+    },
+    {
+      "text": "Falls City School District, Oregon",
+      "href": "https://ballotpedia.org/Falls_City_School_District,_Oregon"
+    },
+    {
+      "text": "Glide School District, Oregon",
+      "href": "https://ballotpedia.org/Glide_School_District,_Oregon"
+    },
+    {
+      "text": "Grants Pass School District, Oregon",
+      "href": "https://ballotpedia.org/Grants_Pass_School_District,_Oregon"
+    },
+    {
+      "text": "Greater Albany Public Schools, Oregon",
+      "href": "https://ballotpedia.org/Greater_Albany_Public_Schools,_Oregon"
+    },
+    {
+      "text": "Harney County School District 3, Oregon",
+      "href": "https://ballotpedia.org/Harney_County_School_District_3,_Oregon"
+    },
+    {
+      "text": "North Wasco County School District, Oregon",
+      "href": "https://ballotpedia.org/North_Wasco_County_School_District,_Oregon"
+    },
+    {
+      "text": "Harney County School District 4, Oregon",
+      "href": "https://ballotpedia.org/Harney_County_School_District_4,_Oregon"
+    },
+    {
+      "text": "Helix School District, Oregon",
+      "href": "https://ballotpedia.org/Helix_School_District,_Oregon"
+    },
+    {
+      "text": "Jordan Valley School District, Oregon",
+      "href": "https://ballotpedia.org/Jordan_Valley_School_District,_Oregon"
+    },
+    {
+      "text": "Joseph School District, Oregon",
+      "href": "https://ballotpedia.org/Joseph_School_District,_Oregon"
+    },
+    {
+      "text": "Klamath Falls City Schools, Oregon",
+      "href": "https://ballotpedia.org/Klamath_Falls_City_Schools,_Oregon"
+    },
+    {
+      "text": "Knappa School District, Oregon",
+      "href": "https://ballotpedia.org/Knappa_School_District,_Oregon"
+    },
+    {
+      "text": "Lake County School District 7, Oregon",
+      "href": "https://ballotpedia.org/Lake_County_School_District_7,_Oregon"
+    },
+    {
+      "text": "Lebanon Community School District, Oregon",
+      "href": "https://ballotpedia.org/Lebanon_Community_School_District,_Oregon"
+    },
+    {
+      "text": "Lincoln County School District, Oregon",
+      "href": "https://ballotpedia.org/Lincoln_County_School_District,_Oregon"
+    },
+    {
+      "text": "Long Creek School District, Oregon",
+      "href": "https://ballotpedia.org/Long_Creek_School_District,_Oregon"
+    },
+    {
+      "text": "Lowell School District, Oregon",
+      "href": "https://ballotpedia.org/Lowell_School_District,_Oregon"
+    },
+    {
+      "text": "Mapleton School District, Oregon",
+      "href": "https://ballotpedia.org/Mapleton_School_District,_Oregon"
+    },
+    {
+      "text": "Marcola School District, Oregon",
+      "href": "https://ballotpedia.org/Marcola_School_District,_Oregon"
+    },
+    {
+      "text": "Molalla River School District, Oregon",
+      "href": "https://ballotpedia.org/Molalla_River_School_District,_Oregon"
+    },
+    {
+      "text": "Monroe School District, Oregon",
+      "href": "https://ballotpedia.org/Monroe_School_District,_Oregon"
+    },
+    {
+      "text": "Nestucca Valley School District, Oregon",
+      "href": "https://ballotpedia.org/Nestucca_Valley_School_District,_Oregon"
+    },
+    {
+      "text": "North Clackamas School District, Oregon",
+      "href": "https://ballotpedia.org/North_Clackamas_School_District,_Oregon"
+    },
+    {
+      "text": "Nyssa School District, Oregon",
+      "href": "https://ballotpedia.org/Nyssa_School_District,_Oregon"
+    },
+    {
+      "text": "Oregon Trail School District, Oregon",
+      "href": "https://ballotpedia.org/Oregon_Trail_School_District,_Oregon"
+    },
+    {
+      "text": "Troy School District, Oregon",
+      "href": "https://ballotpedia.org/Troy_School_District,_Oregon"
+    },
+    {
+      "text": "Santiam Canyon School District, Oregon",
+      "href": "https://ballotpedia.org/Santiam_Canyon_School_District,_Oregon"
+    },
+    {
+      "text": "Scappoose School District, Oregon",
+      "href": "https://ballotpedia.org/Scappoose_School_District,_Oregon"
+    },
+    {
+      "text": "Scio School District, Oregon",
+      "href": "https://ballotpedia.org/Scio_School_District,_Oregon"
+    },
+    {
+      "text": "Sheridan School District, Oregon",
+      "href": "https://ballotpedia.org/Sheridan_School_District,_Oregon"
+    },
+    {
+      "text": "South Wasco County School District, Oregon",
+      "href": "https://ballotpedia.org/South_Wasco_County_School_District,_Oregon"
+    },
+    {
+      "text": "Springfield School District, Oregon",
+      "href": "https://ballotpedia.org/Springfield_School_District,_Oregon"
+    },
+    {
+      "text": "St. Helens School District, Oregon",
+      "href": "https://ballotpedia.org/St._Helens_School_District,_Oregon"
+    },
+    {
+      "text": "Vale School District, Oregon",
+      "href": "https://ballotpedia.org/Vale_School_District,_Oregon"
+    },
+    {
+      "text": "Sweet Home School District, Oregon",
+      "href": "https://ballotpedia.org/Sweet_Home_School_District,_Oregon"
+    },
+    {
+      "text": "Vernonia School District, Oregon",
+      "href": "https://ballotpedia.org/Vernonia_School_District,_Oregon"
+    },
+    {
+      "text": "North Douglas School District, Oregon",
+      "href": "https://ballotpedia.org/North_Douglas_School_District,_Oregon"
+    },
+    {
+      "text": "Oakland School District, Oregon",
+      "href": "https://ballotpedia.org/Oakland_School_District,_Oregon"
+    },
+    {
+      "text": "North Bend School District, Oregon",
+      "href": "https://ballotpedia.org/North_Bend_School_District,_Oregon"
+    },
+    {
+      "text": "Newberg School District, Oregon",
+      "href": "https://ballotpedia.org/Newberg_School_District,_Oregon"
+    },
+    {
+      "text": "Spray School District, Oregon",
+      "href": "https://ballotpedia.org/Spray_School_District,_Oregon"
+    },
+    {
+      "text": "Mitchell School District, Oregon",
+      "href": "https://ballotpedia.org/Mitchell_School_District,_Oregon"
+    },
+    {
+      "text": "Sherman County School District, Oregon",
+      "href": "https://ballotpedia.org/Sherman_County_School_District,_Oregon"
+    },
+    {
+      "text": "Parkrose School District, Oregon",
+      "href": "https://ballotpedia.org/Parkrose_School_District,_Oregon"
+    },
+    {
+      "text": "Siuslaw School District, Oregon",
+      "href": "https://ballotpedia.org/Siuslaw_School_District,_Oregon"
+    },
+    {
+      "text": "Mt. Angel School District 91, Oregon",
+      "href": "https://ballotpedia.org/Mt._Angel_School_District_91,_Oregon"
+    },
+    {
+      "text": "Roseburg Public Schools, Oregon",
+      "href": "https://ballotpedia.org/Roseburg_Public_Schools,_Oregon"
+    },
+    {
+      "text": "St. Paul School District 45, Oregon",
+      "href": "https://ballotpedia.org/St._Paul_School_District_45,_Oregon"
+    },
+    {
+      "text": "Grant School District No. 3, Oregon",
+      "href": "https://ballotpedia.org/Grant_School_District_No._3,_Oregon"
+    },
+    {
+      "text": "South Harney School District, Oregon",
+      "href": "https://ballotpedia.org/South_Harney_School_District,_Oregon"
+    },
+    {
+      "text": "Alsea School District 7J, Oregon",
+      "href": "https://ballotpedia.org/Alsea_School_District_7J,_Oregon"
+    },
+    {
+      "text": "Annex School District 29, Oregon",
+      "href": "https://ballotpedia.org/Annex_School_District_29,_Oregon"
+    },
+    {
+      "text": "Arlington School District 3, Oregon",
+      "href": "https://ballotpedia.org/Arlington_School_District_3,_Oregon"
+    },
+    {
+      "text": "Blachly School District 090, Oregon",
+      "href": "https://ballotpedia.org/Blachly_School_District_090,_Oregon"
+    },
+    {
+      "text": "Burnt River School District 30J, Oregon",
+      "href": "https://ballotpedia.org/Burnt_River_School_District_30J,_Oregon"
+    },
+    {
+      "text": "Butte Falls School District 91, Oregon",
+      "href": "https://ballotpedia.org/Butte_Falls_School_District_91,_Oregon"
+    },
+    {
+      "text": "Camas Valley School District 21J, Oregon",
+      "href": "https://ballotpedia.org/Camas_Valley_School_District_21J,_Oregon"
+    },
+    {
+      "text": "Corbett School District 39, Oregon",
+      "href": "https://ballotpedia.org/Corbett_School_District_39,_Oregon"
+    },
+    {
+      "text": "Cove School District 15, Oregon",
+      "href": "https://ballotpedia.org/Cove_School_District_15,_Oregon"
+    },
+    {
+      "text": "Days Creek School District 15, Oregon",
+      "href": "https://ballotpedia.org/Days_Creek_School_District_15,_Oregon"
+    },
+    {
+      "text": "Elkton School District 34, Oregon",
+      "href": "https://ballotpedia.org/Elkton_School_District_34,_Oregon"
+    },
+    {
+      "text": "Fossil School District 21J, Oregon",
+      "href": "https://ballotpedia.org/Fossil_School_District_21J,_Oregon"
+    },
+    {
+      "text": "Harper School District 66, Oregon",
+      "href": "https://ballotpedia.org/Harper_School_District_66,_Oregon"
+    },
+    {
+      "text": "Huntington School District 16J, Oregon",
+      "href": "https://ballotpedia.org/Huntington_School_District_16J,_Oregon"
+    },
+    {
+      "text": "Imbler School District 11, Oregon",
+      "href": "https://ballotpedia.org/Imbler_School_District_11,_Oregon"
+    },
+    {
+      "text": "Ione School District 2, Oregon",
+      "href": "https://ballotpedia.org/Ione_School_District_2,_Oregon"
+    },
+    {
+      "text": "McKenzie School District 68, Oregon",
+      "href": "https://ballotpedia.org/McKenzie_School_District_68,_Oregon"
+    },
+    {
+      "text": "North Powder School District 8J, Oregon",
+      "href": "https://ballotpedia.org/North_Powder_School_District_8J,_Oregon"
+    },
+    {
+      "text": "Paisley School District 11, Oregon",
+      "href": "https://ballotpedia.org/Paisley_School_District_11,_Oregon"
+    },
+    {
+      "text": "Pine-Eagle School District 61, Oregon",
+      "href": "https://ballotpedia.org/Pine-Eagle_School_District_61,_Oregon"
+    },
+    {
+      "text": "Prospect School District 59, Oregon",
+      "href": "https://ballotpedia.org/Prospect_School_District_59,_Oregon"
+    }
+  ],
+  "count": 197
+}
